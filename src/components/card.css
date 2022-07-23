@@ -3,7 +3,7 @@
   flex-direction: column;
   min-width: 230px;
   max-width: 700px;
-  padding: 20px;
+  padding: 30px;
   /* From https://css.glass */
   background: rgba(255, 255, 255, 0.2);
   border-radius: 16px;

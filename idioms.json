@@ -1,0 +1,5325 @@
+[
+  {
+    "title": "A Bit Much",
+    "desc": "A Bit Much: More than is reasonable; a bit too much"
+  },
+  {
+    "title": "A Bite at The Cherry",
+    "desc": "A Bite at The Cherry: A good opportunity that isn’t available to everyone"
+  },
+  {
+    "title": "A Busy Bee",
+    "desc": "A Busy Bee: A busy, active person who moves quickly from task to task."
+  },
+  {
+    "title": "A Cat Has Nine Lives",
+    "desc": "A Cat Has Nine Lives: Cats seem to get away with dangerous things"
+  },
+  {
+    "title": "A Cat in Gloves Catches No Mice",
+    "desc": "A Cat in Gloves Catches No Mice: You can’t get what you need if you’re too careful."
+  },
+  { "title": "A Cat Nap", "desc": "A Cat Nap: A short sleep during the day" },
+  {
+    "title": "A Cold Day In July",
+    "desc": "A Cold Day In July: (Something that) will never happen"
+  },
+  {
+    "title": "A Cold Fish",
+    "desc": "A Cold Fish: Someone who is not often moved by emotions, who is regarded as being hard and unfeeling."
+  },
+  { "title": "A Cut Above", "desc": "A Cut Above: Slightly better than" },
+  {
+    "title": "A Cut Below",
+    "desc": "A Cut Below: Inferior to; somewhat lower in quality than"
+  },
+  {
+    "title": "A Day Late And A Dollar Short",
+    "desc": "A Day Late And A Dollar Short: Too delayed and insignificant to have much effect"
+  },
+  {
+    "title": "A Dog in The Manger",
+    "desc": "A Dog in The Manger: A person who selfishly prevent others from using, enjoying or profiting from something even though he/ she cannot use or enjoy it himself."
+  },
+  {
+    "title": "A Few Sandwiches Short Of A Picnic",
+    "desc": "A Few Sandwiches Short Of A Picnic: Abnormally stupid, not really sane"
+  },
+  { "title": "A Good Deal", "desc": "A Good Deal: To a large extent, a lot" },
+  { "title": "A Great Dea", "desc": "A Great Deal: To a very large extent" },
+  {
+    "title": "A Guinea Pig",
+    "desc": "A Guinea Pig: Someone who is part of an experiment or trial"
+  },
+  {
+    "title": "A Hair’s Breadth",
+    "desc": "A Hair’s Breadth: A very small distance or amount"
+  },
+  {
+    "title": "A Home Bird",
+    "desc": "A Home Bird: Somebody who prefers to spend his social and free time at home."
+  },
+  {
+    "title": "A Hundred And Ten Percent",
+    "desc": "A Hundred And Ten Percent: More than what seems to be the maximum"
+  },
+  {
+    "title": "A Lame Duck",
+    "desc": "A Lame Duck: A person or enterprise (often a business) that is not a success and that has to be helped."
+  },
+  { "title": "A Leg Up", "desc": "A Leg Up: An advantage, a boost" },
+  {
+    "title": "A Lemon",
+    "desc": "A Lemon: A vehicle that does not work properly"
+  },
+  {
+    "title": "A Life Of Its Own",
+    "desc": "A Life Of Its Own: An indepdendent existence"
+  },
+  {
+    "title": "A Little Bird Told Me",
+    "desc": "A Little Bird Told Me: I don’t wish to divulge where I got the information"
+  },
+  {
+    "title": "A Little Bird Told Me",
+    "desc": "A Little Bird Told Me: I got this information from a source I cannot reveal."
+  },
+  {
+    "title": "A Little from Column A, a Little from Column B",
+    "desc": "A Little from Column A, a Little from Column B: A course of action drawing on several different ideas or possibilities"
+  },
+  {
+    "title": "A Lone Wolf",
+    "desc": "A Lone Wolf: Someone who is not very social with other people"
+  },
+  {
+    "title": "A Lot on One’s Plate",
+    "desc": "A Lot on One’s Plate: A lot to do"
+  },
+  { "title": "A Million and One", "desc": "A Million and One: Very many" },
+  {
+    "title": "A Notch Above",
+    "desc": "A Notch Above: Superior to; higher in quality"
+  },
+  {
+    "title": "A Penny for Your Thoughts",
+    "desc": "A Penny for Your Thoughts: What are you thinking?"
+  },
+  {
+    "title": "A Penny Saved is A Penny Earned",
+    "desc": "A Penny Saved is A Penny Earned: Every small amount helps to build one’s savings"
+  },
+  {
+    "title": "A Picture Is Worth a Thousand Words",
+    "desc": "A Picture Is Worth a Thousand Words: A visual presentation can communicate something very effectively"
+  },
+  {
+    "title": "A Plum Job",
+    "desc": "A Plum Job: An easy and pleasant job that also pays well"
+  },
+  {
+    "title": "A Rare Bird",
+    "desc": "A Rare Bird: Somebody or something of a kind that one seldom sees."
+  },
+  {
+    "title": "A Scaredy-Cat",
+    "desc": "A Scaredy-Cat: Someone who is excessively scared or afraid."
+  },
+  {
+    "title": "A Second Bite At The Cherry",
+    "desc": "A Second Bite At The Cherry: A Second chance to do something"
+  },
+  {
+    "title": "A Sight for Sore Eye",
+    "desc": "A Sight for Sore Eyes: Someone that you’re pleased to see"
+  },
+  {
+    "title": "A Sitting Duck",
+    "desc": "A Sitting Duck: A person or object in a vulnerable position that is easy to attack or injure."
+  },
+  {
+    "title": "A Snowball’s Chance in Hell",
+    "desc": "A Snowball’s Chance in Hell: Little to no likelihood of occurrence or success"
+  },
+  {
+    "title": "A Stitch in Time Saves Nine",
+    "desc": "A Stitch in Time Saves Nine: Fix something quickly, because if you don’t, it will just get more difficult to fix"
+  },
+  {
+    "title": "A Stone’s Throw",
+    "desc": "A Stone’s Throw: A very short distance"
+  },
+  {
+    "title": "A Storm in a Teacup",
+    "desc": "A Storm in a Teacup: Unnecessary anger or worry about an unimportant or trivial matter"
+  },
+  { "title": "A Tall Order", "desc": "A Tall Order: A difficult task" },
+  {
+    "title": "A Week Is A Long Time In",
+    "desc": "A Week Is A Long Time In _____: In the field mentioned, the situation may change rapidly"
+  },
+  { "title": "About Time", "desc": "About Time: Far past the desired time" },
+  {
+    "title": "About To",
+    "desc": "About To: On the point of, occurring imminently"
+  },
+  {
+    "title": "Above And Beyond",
+    "desc": "Above And Beyond: More than is expected or required"
+  },
+  {
+    "title": "Above Board",
+    "desc": "Above Board: Openly, without deceit. Honestly, reputably."
+  },
+  {
+    "title": "Above The Law",
+    "desc": "Above The Law: Exempt from the laws that apply to everyone else."
+  },
+  {
+    "title": "Above The Salt",
+    "desc": "Above The Salt: Of high standing or honor"
+  },
+  {
+    "title": "Above Water",
+    "desc": "Above Water: Not in extreme difficulty. Especially said of finances"
+  },
+  {
+    "title": "Accident Of Birth",
+    "desc": "Accident Of Birth: Luck in something due to family good fortune"
+  },
+  {
+    "title": "Accident Waiting To Happen",
+    "desc": "Accident Waiting To Happen: A dangerous way of setting up or organizing something"
+  },
+  {
+    "title": "According To Hoyle",
+    "desc": "According To Hoyle: Properly, in accordance with established procedures"
+  },
+  { "title": "Ace In The Hole", "desc": "Ace In The Hole: A hidden advantage" },
+  {
+    "title": "Ace Up One’s Sleeve",
+    "desc": "Ace Up One’s Sleeve: A surprise advantage of which others are not aware."
+  },
+  {
+    "title": "Acid Test",
+    "desc": "Acid Test: A crucial event that determines the worth of something"
+  },
+  {
+    "title": "Acknowledge The Corn",
+    "desc": "Acknowledge The Corn: Admit to a mistake, especially a small one; point out one’s own shortcomings, or another’s"
+  },
+  {
+    "title": "Acquired Taste:",
+    "desc": "Acquired Taste: Something one learns to appreciate only after trying it repeatedly"
+  },
+  {
+    "title": "Across The Board",
+    "desc": "Across The Board: In relation to all categories, for everyone"
+  },
+  {
+    "title": "Across The Pond",
+    "desc": "Across The Pond: On or to the other side of the Atlantic Ocean."
+  },
+  {
+    "title": "Act High and Mighty",
+    "desc": "Act High and Mighty: Be arrogant, presume that one is better than others"
+  },
+  {
+    "title": "Act Of Congress",
+    "desc": "Act Of Congress: Hard to get, said of authorization"
+  },
+  {
+    "title": "Act One’s Age",
+    "desc": "Act One’s Age: To be mature, not childish"
+  },
+  {
+    "title": "Actions Speak Louder Than Words",
+    "desc": "Actions Speak Louder Than Words: One’s character and intentions are shown more accurately by one’s actions than by one’s words."
+  },
+  {
+    "title": "Achilles’ Heel",
+    "desc": "Achilles’ Heel: The weak point of an otherwise powerful person or organization"
+  },
+  {
+    "title": "Add Fuel To The Fire",
+    "desc": "Add Fuel To The Fire: Worsen already existing tension"
+  },
+  {
+    "title": "Add Insult To Injury",
+    "desc": "Add Insult To Injury: Compound a defeat with humiliation or mockery"
+  },
+  {
+    "title": "Add Insult to Injury",
+    "desc": "Add Insult to Injury: Humiliate someone in addition to doing damage to him or her"
+  },
+  {
+    "title": "After One’s Own Heart",
+    "desc": "After One’s Own Heart: Similar in a pleasing way"
+  },
+  {
+    "title": "After The Fact",
+    "desc": "After The Fact: Too late; after something is completed or finalized"
+  },
+  {
+    "title": "After The Lord Mayor’s Show (UK)",
+    "desc": "After The Lord Mayor’s Show (UK): Anticlimactic; occurring after something impressive"
+  },
+  {
+    "title": "Against The Clock",
+    "desc": "Against The Clock: Forced to hurry to meet a deadline"
+  },
+  {
+    "title": "Against the Clock",
+    "desc": "Against the Clock: In a very limited amount of time; with a shortage of time being the main problem"
+  },
+  {
+    "title": "Against The Grain",
+    "desc": "Against The Grain: Contrary to one’s natural inclinations"
+  },
+  {
+    "title": "Against The Run Of Play",
+    "desc": "Against The Run Of Play: A typical of the way a game has been going"
+  },
+  {
+    "title": "Age Before Beauty",
+    "desc": "Age Before Beauty: Something said by a younger woman to an older one, for instance allowing her to pass through a doorway"
+  },
+  {
+    "title": "Agree To Disagree",
+    "desc": "Agree To Disagree: Accept or set aside a disagreement"
+  },
+  {
+    "title": "Agreement In Principle",
+    "desc": "Agreement In Principle: In a negotiation, an agreement in which not all details have been worked out"
+  },
+  {
+    "title": "Aha Moment",
+    "desc": "Aha Moment: Sudden realization, the point at which one suddenly understands something"
+  },
+  {
+    "title": "Ahead Of One’s Time",
+    "desc": "Ahead Of One’s Time: Offering ideas not yet in general circulation; highly creative"
+  },
+  {
+    "title": "Ahead Of The Curve",
+    "desc": "Ahead Of The Curve: Innovative, devising new ideas in advance of others"
+  },
+  {
+    "title": "Ahead Of The Curve",
+    "desc": "Ahead Of The Curve: Offering ideas not yet in general circulation; highly creative"
+  },
+  {
+    "title": "Ahead Of The Game",
+    "desc": "Ahead Of The Game: Making faster progress than anticipated; ahead of schedule"
+  },
+  {
+    "title": "Air Rage",
+    "desc": "Air Rage: Angry behavior inside an airplane"
+  },
+  {
+    "title": "Airy Fairy",
+    "desc": "Airy Fairy: whimsical, nonsensical, impractical"
+  },
+  {
+    "title": "Albatross Around One’s Neck",
+    "desc": "Albatross Around One’s Neck: Something from one’s past that acts as a hindrance"
+  },
+  {
+    "title": "Alive and Kicking",
+    "desc": "Alive and Kicking: In good health despite health problems"
+  },
+  {
+    "title": "All Along",
+    "desc": "All Along: For the entire time something has been happening"
+  },
+  {
+    "title": "All And Sundry",
+    "desc": "All And Sundry: Everyone(separately) Each one."
+  },
+  {
+    "title": "All Bark And No Bite",
+    "desc": "All Bark And No Bite: Tending to make verbal threats but not deliver on them"
+  },
+  {
+    "title": "All Bets Are Off",
+    "desc": "All Bets Are Off: What seemed certain is now unclear"
+  },
+  {
+    "title": "All Dressed Up And Nowhere To Go",
+    "desc": "All Dressed Up And Nowhere To Go: Prepared (with clothing or otherwise) for an event that does not occur"
+  },
+  {
+    "title": "All Ears",
+    "desc": "All Ears: Listening willingly, waiting for an explanation"
+  },
+  { "title": "All Eyes And Ears", "desc": "All Eyes And Ears: Attentive" },
+  {
+    "title": "All Eyes Are On",
+    "desc": "All Eyes Are On: Watching alertly or attentively. Having prominent eyes. Everyone is paying attention to"
+  },
+  {
+    "title": "All Fur Coat And No Knickers",
+    "desc": "All Fur Coat And No Knickers: Superficially attractive, physically or otherwise"
+  },
+  {
+    "title": "All Hands on Deck",
+    "desc": "All Hands on Deck: Everyone must help."
+  },
+  {
+    "title": "All Hat And No Cattle",
+    "desc": "All Hat And No Cattle: Pretentious, full of bluster"
+  },
+  {
+    "title": "All Hell Breaks Loose",
+    "desc": "All Hell Breaks Loose: The situation becomes chaotic."
+  },
+  {
+    "title": "All In A Day’s Work (Excl",
+    "desc": "All In A Day’s Work (Excl.): That’s what I’m here for; although I have accomplished something, it is part of what I’m expected to do"
+  },
+  {
+    "title": "All In Good Time",
+    "desc": "All In Good Time: Eventually; at a more favorable time in the future. This phrase encourages one to be patient."
+  },
+  { "title": "All in One Piece", "desc": "All in One Piece: Safely" },
+  {
+    "title": "All It’s Cracked Up To Be",
+    "desc": "All It’s Cracked Up To Be: As good as claims or reputation would suggest"
+  },
+  {
+    "title": "All Mouth And No Trousers",
+    "desc": "All Mouth And No Trousers: Superficial, engaging in empty, boastful talk, but not of real substance"
+  },
+  {
+    "title": "All Over But The Shouting",
+    "desc": "All Over But The Shouting: Certain to end in a specific way"
+  },
+  {
+    "title": "All Over Hell’S Half Acre",
+    "desc": "All Over Hell’S Half Acre: All over the place; everywhere."
+  },
+  {
+    "title": "All Over The Board",
+    "desc": "All Over The Board: Everywhere, in many different locations"
+  },
+  {
+    "title": "All Over The Map",
+    "desc": "All Over The Map: Everywhere; in many different locations"
+  },
+  {
+    "title": "All Over The Place",
+    "desc": "All Over The Place: Everywhere; in many different locations"
+  },
+  {
+    "title": "All Rights Reserved",
+    "desc": "All Rights Reserved: Said of a published work; all reproduction rights are asserted by the copyright holder"
+  },
+  {
+    "title": "All Roads Lead to Rome",
+    "desc": "All Roads Lead to Rome: There is more than one effective way to do something; many different methods will produce the same result"
+  },
+  { "title": "All Set", "desc": "All Set: Ready, prepared, finished" },
+  {
+    "title": "All Sizzle And No Steak",
+    "desc": "All Sizzle And No Steak: Failing to live up to advance promotion or reputation"
+  },
+  {
+    "title": "All Talk and No Trousers",
+    "desc": "All Talk and No Trousers: Prone to empty boasts"
+  },
+  {
+    "title": "All Told",
+    "desc": "All Told: With everything taken into consideration"
+  },
+  {
+    "title": "All That Jazz",
+    "desc": "All That Jazz: Similar things, similar qualities, et cetera"
+  },
+  {
+    "title": "All The Marbles",
+    "desc": "All The Marbles: The entire prize or reward"
+  },
+  { "title": "All The Rage", "desc": "All The Rage: Very fashionable" },
+  { "title": "All the Rage", "desc": "All the Rage: Very much in fashion" },
+  {
+    "title": "All The Same",
+    "desc": "All The Same: Anyway; nevertheless; nonetheless."
+  },
+  {
+    "title": "All The Tea In China",
+    "desc": "All The Tea In China: Great wealth, a large payment"
+  },
+  {
+    "title": "All Things Being Equal",
+    "desc": "All Things Being Equal: In the event that all aspects of a situation remain the same"
+  },
+  {
+    "title": "All Things Considered",
+    "desc": "All Things Considered: Taking all factors into consideration"
+  },
+  { "title": "All Thumbs", "desc": "All Thumbs: Clumsy" },
+  {
+    "title": "All Very Well",
+    "desc": "All Very Well: True to a certain extent"
+  },
+  { "title": "All Wet", "desc": "All Wet: Completely mistaken" },
+  {
+    "title": "Along The Lines Of",
+    "desc": "Along The Lines Of: In general accordance with, in the same general direction as"
+  },
+  {
+    "title": "Amateur Hour",
+    "desc": "Amateur Hour: A display of incompetence"
+  },
+  {
+    "title": "Amber Gambler",
+    "desc": "Amber Gambler: Someone who accelerates to try to cross an intersection before a traffic light turns red"
+  },
+  { "title": "Amber Nectar", "desc": "Amber Nectar: Beer" },
+  {
+    "title": "American Dream (The)",
+    "desc": "American Dream (The): The belief among Americans that hard work leads to material success"
+  },
+  {
+    "title": "An Apple a Day Keeps the Doctor Away",
+    "desc": "An Apple a Day Keeps the Doctor Away: Eating healthy foods will keep one from getting sick (and needing to see a doctor)"
+  },
+  {
+    "title": "An Axe",
+    "desc": "An Axe: To Grind A grievance, a disagreement with someone that justifies confrontation."
+  },
+  {
+    "title": "An Early Bird",
+    "desc": "An Early Bird: A person who gets up early in the morning, or who starts work earlier than others."
+  },
+  {
+    "title": "An Eye for an Eye",
+    "desc": "An Eye for an Eye: Justice in which reparation or vengeance exactly matches the harm caused to the victim"
+  },
+  {
+    "title": "An Offer One Can’t Refuse",
+    "desc": "An Offer One Can’t Refuse: An extremely attractive offer"
+  },
+  {
+    "title": "Ancient History",
+    "desc": "Ancient History: Something, such as a disagreement, that happened long ago and ought to be forgotten"
+  },
+  { "title": "And All That", "desc": "And All That: Et cetera, and so on." },
+  {
+    "title": "And Counting",
+    "desc": "And Counting: And the number just mentioned is increasing (or decreasing)"
+  },
+  {
+    "title": "And Change",
+    "desc": "And Change: And an additional amount of money that’s less than the next round number"
+  },
+  {
+    "title": "And His Mother",
+    "desc": "And His Mother: An intensifier for an inclusive noun or phrase such as everyone, everybody"
+  },
+  {
+    "title": "And So Forth",
+    "desc": "And So Forth: Indicates that a list continues in a similar manner, etc."
+  },
+  {
+    "title": "And So On",
+    "desc": "And So On: Indicates that a list continues in a similar manner, etc."
+  },
+  {
+    "title": "And The Like",
+    "desc": "And The Like: And other similar items, etc."
+  },
+  {
+    "title": "And Then Some",
+    "desc": "And Then Some: And even more than what has just been mentioned"
+  },
+  {
+    "title": "Another Nail In One’s Coffin",
+    "desc": "Another Nail In One’s Coffin: Something that leads to someone’s death, literally or figuratively."
+  },
+  {
+    "title": "Answer Back",
+    "desc": "Answer Back: Respond impertinently; to talk back."
+  },
+  { "title": "Ants In Your Pants", "desc": "Ants In Your Pants: Restlessness" },
+  {
+    "title": "Any Port in a Storm",
+    "desc": "Any Port in a Storm: If you’re in trouble, you’ll turn to anything that improves the situation."
+  },
+  {
+    "title": "Any Tom, Dick or Harry",
+    "desc": "Any Tom, Dick or Harry: Any ordinary person"
+  },
+  {
+    "title": "Angel’s Advocate",
+    "desc": "Angel’s Advocate: Someone who takes a positive outlook on an idea or proposal"
+  },
+  {
+    "title": "Angle For",
+    "desc": "Angle For: Aim toward something, try to obtain something, often indirectly or secretly"
+  },
+  {
+    "title": "Apple of One’s Eye",
+    "desc": "Apple of One’s Eye: A favorite person or thing, a person especially valued by someone"
+  },
+  {
+    "title": "Apple of Someone’s Eye",
+    "desc": "Apple of Someone’s Eye: The person that someone loves most of all and is very proud of"
+  },
+  {
+    "title": "Apples and Oranges",
+    "desc": "Apples and Oranges: Of two different classes, not comparable"
+  },
+  {
+    "title": "Apples and Oranges",
+    "desc": "Apples and Oranges: Of two different classes, not comparable"
+  },
+  {
+    "title": "Arm Candy",
+    "desc": "Arm Candy: An attractive woman accompanying a powerful or famous man at a social event"
+  },
+  {
+    "title": "Armed to the Teeth",
+    "desc": "Armed to the Teeth: Carrying many weapons"
+  },
+  { "title": "Around the Clock", "desc": "Around the Clock: At all times" },
+  {
+    "title": "As American as Apple Pie",
+    "desc": "As American as Apple Pie: Very or typically American"
+  },
+  {
+    "title": "As Far as I Can Throw (someone)",
+    "desc": "As Far as I Can Throw (someone): Only slightly"
+  },
+  {
+    "title": "As Fit as A Fiddle",
+    "desc": "As Fit as A Fiddle: To be healthy and physically fit"
+  },
+  {
+    "title": "As Pale as A Ghost",
+    "desc": "As Pale as A Ghost: Extremely pale"
+  },
+  { "title": "As Pale as Death", "desc": "As Pale as Death: Extremely pale" },
+  {
+    "title": "As Poor as a Church Mouse",
+    "desc": "As Poor as a Church Mouse: Very poor"
+  },
+  { "title": "As Red as A Cherry", "desc": "As Red as A Cherry: Very red" },
+  {
+    "title": "Asleep at the Wheel (Switch)",
+    "desc": "Asleep at the Wheel (Switch): not paying attention to one’s work; not doing one’s job diligently."
+  },
+  { "title": "At Death’s Door", "desc": "At Death’s Door: Very near death" },
+  {
+    "title": "At Each Other’s Throats",
+    "desc": "At Each Other’s Throats: Constantly and strongly arguing"
+  },
+  {
+    "title": "At Loggerheads",
+    "desc": "At Loggerheads: In a state of persistent disagreement"
+  },
+  {
+    "title": "At Loggerheads",
+    "desc": "At Loggerheads: In a state of persistent disagreement."
+  },
+  {
+    "title": "At Sixes and Sevens",
+    "desc": "At Sixes and Sevens: Someone is in a state of confusion or not very well organized."
+  },
+  {
+    "title": "At the Drop of a Hat",
+    "desc": "At the Drop of a Hat: Spontaneously, suddenly"
+  },
+  {
+    "title": "At the Eleventh Hour",
+    "desc": "At the Eleventh Hour: It happens when it is almost too late."
+  },
+  {
+    "title": "At the End of One’s Rope (Tether)",
+    "desc": "At the End of One’s Rope (Tether): Running out of endurance or patience"
+  },
+  {
+    "title": "At the End of the Day",
+    "desc": "At the End of the Day: In the final analysis; when all is said and done"
+  },
+  {
+    "title": "At Wit’s End",
+    "desc": "At Wit’s End: Frustrated because all measures to deal with something have failed"
+  },
+  { "title": "Babe In Arms", "desc": "Babe In Arms: A baby being carried" },
+  {
+    "title": "Babe In The Wood",
+    "desc": "Babe In The Woods: An innocent, naive person"
+  },
+  {
+    "title": "Babe Magnet",
+    "desc": "Babe Magnet: A man to whom women are attracted"
+  },
+  { "title": "Baby Blues", "desc": "Baby Blues: Blue eyes." },
+  {
+    "title": "Baby Boomer",
+    "desc": "Baby Boomer: A person born in the years following World War II, when there was a temporary marked increase in the birth rate"
+  },
+  {
+    "title": "Babysitter Test",
+    "desc": "Babysitter Test: An evaluation of the ease of use of household appliances, especially remote control devices"
+  },
+  {
+    "title": "Back And Forth",
+    "desc": "Back And Forth: Dialogue, negotiations"
+  },
+  {
+    "title": "Back At You",
+    "desc": "Back At You: Same to you (used to return a greeting or insult)"
+  },
+  {
+    "title": "Back Burner (On The)",
+    "desc": "Back Burner (On The): Not urgent; set aside until later"
+  },
+  { "title": "Back Forty", "desc": "Back Forty: Remote, inaccessible land" },
+  {
+    "title": "Back in the Day",
+    "desc": "Back in the Day: Formerly, when I was younger, in earlier times"
+  },
+  { "title": "Back Of Beyond", "desc": "Back Of Beyond: A remote location" },
+  {
+    "title": "Back Office",
+    "desc": "Back Office: Support services for a business"
+  },
+  {
+    "title": "Back on One’s Feet",
+    "desc": "Back on One’s Feet: Physically healthy again"
+  },
+  {
+    "title": "Back to Square One",
+    "desc": "Back to Square One: Back to the start"
+  },
+  {
+    "title": "Back to Square One",
+    "desc": "Back to Square One: Forced to begin something again"
+  },
+  {
+    "title": "Back to the Drawing Board",
+    "desc": "Back to the Drawing Board: Forced to begin something again"
+  },
+  {
+    "title": "Back to the Salt Mine(s)",
+    "desc": "Back to the Salt Mine(s): We have to go back to work."
+  },
+  {
+    "title": "Back to the Salt Mines",
+    "desc": "Back to the Salt Mines: It’s time for me (us) to go back to work"
+  },
+  {
+    "title": "Back the Wrong Horse",
+    "desc": "Back the Wrong Horse: To support the losing side"
+  },
+  {
+    "title": "Backing and Filling",
+    "desc": "Backing and Filling: Delaying a decision by making small changes or arguing about small details"
+  },
+  {
+    "title": "Backseat Driver",
+    "desc": "Backseat Driver: A passenger in a car who gives unwanted advice to the driver is called a backseat driver."
+  },
+  {
+    "title": "Backseat Driver",
+    "desc": "Backseat Driver: Someone who likes to give (often annoying) advice to the driver of a car, or the leader of some other enterprise"
+  },
+  {
+    "title": "Bad Apple",
+    "desc": "Bad Apple: A discontented, trouble making, or dishonest person"
+  },
+  {
+    "title": "Bad Blood",
+    "desc": "Bad Blood: Enmity or hatred that stems from something in the past"
+  },
+  { "title": "Bad Egg", "desc": "Bad Egg: Someone who is not to be trusted" },
+  {
+    "title": "Bad Taste In One’s Mouth",
+    "desc": "Bad Taste In One’s Mouth: Unease, a feeling that something unspecified is wrong in a situation"
+  },
+  {
+    "title": "Bag of Tricks",
+    "desc": "Bag of Tricks: A set of methods or resources"
+  },
+  {
+    "title": "Bail Out",
+    "desc": "Bail Out: To rescue someone from a bad situation, to shield someone from the consequences of his or her actions"
+  },
+  {
+    "title": "Ball and Chain",
+    "desc": "Ball and Chain: 1. One’s spouse (derogatory but often affectionate); 2. an ongoing burden"
+  },
+  { "title": "Ballpark Figure", "desc": "Ballpark Figure: A rough estimate" },
+  {
+    "title": "Banner Year",
+    "desc": "Banner Year: A year marked by strong successes"
+  },
+  {
+    "title": "Bang for Your Buck",
+    "desc": "Bang for Your Buck: Value for money"
+  },
+  {
+    "title": "Bang for Your Buck",
+    "desc": "Bang for Your Buck: Value for your money"
+  },
+  {
+    "title": "Bang One’s Head Against the Wall (Against a Brick Wall)",
+    "desc": "Bang One’s Head Against the Wall (Against a Brick Wall):Try repeatedly to do something without making progress"
+  },
+  {
+    "title": "Baptism by Fire",
+    "desc": "Baptism by Fire: A difficult task given right after one has assumed new responsibilities"
+  },
+  {
+    "title": "Bar Fly (or Barfly)",
+    "desc": "Bar Fly (or Barfly): Someone who spends much of his or her time in bars"
+  },
+  {
+    "title": "Bare One’s Heart (Soul)",
+    "desc": "Bare One’s Heart (Soul): To confess one’s deepest secrets"
+  },
+  {
+    "title": "Bark Up the Wrong Tree",
+    "desc": "Bark Up the Wrong Tree: Pursue a mistaken approach or belief; be wrong in a course of action"
+  },
+  {
+    "title": "Basket Case",
+    "desc": "Basket Case: So upset or stunned that one is unable to function; in a hopeless condition"
+  },
+  {
+    "title": "Bat/Play for Both Teams",
+    "desc": "Bat/Play for Both Teams: To be bisexual."
+  },
+  {
+    "title": "Bat/Play for the Other Team",
+    "desc": "Bat/Play for the Other Team: To be homosexual."
+  },
+  {
+    "title": "Batten Down the Hatches",
+    "desc": "Batten Down the Hatches: Prepare for a storm"
+  },
+  {
+    "title": "Batten Down the Hatches",
+    "desc": "Batten Down the Hatches: Prepare for a storm"
+  },
+  {
+    "title": "Be A Barrel of Laughs",
+    "desc": "Be A Barrel of Laughs: To be fun, funny, and pleasant."
+  },
+  {
+    "title": "Be A Cold Day In Hell",
+    "desc": "Be A Cold Day In Hell: (Something that) will never happen"
+  },
+  {
+    "title": "Be An Item",
+    "desc": "Be An Item: Two people are an item when they are having a romantic relationship"
+  },
+  {
+    "title": "Be Footloose and Fancy-Free",
+    "desc": "Be Footloose and Fancy-Free: To be free of responsibilities, including romantic commitments"
+  },
+  {
+    "title": "Be Head Over Heels (In love)",
+    "desc": "Be Head Over Heels (In love): Be in love with somebody very much"
+  },
+  {
+    "title": "Be in Seventh Heaven",
+    "desc": "Be in Seventh Heaven: Extremely happy"
+  },
+  {
+    "title": "Be in Two Minds (about something)",
+    "desc": "Be in Two Minds (about something): To not be certain about something, or to have difficulty in making a decision"
+  },
+  {
+    "title": "Be Like Chalk and Cheese",
+    "desc": "Be Like Chalk and Cheese: Things or people who are very different and have nothing in common"
+  },
+  {
+    "title": "Be Lovey – Dovey",
+    "desc": "Be Lovey – Dovey: Expressing your love in public by constantly kissing and hugging"
+  },
+  {
+    "title": "Be on the Mend",
+    "desc": "Be on the Mend: Be improving after an illness"
+  },
+  {
+    "title": "Be Snowed Under",
+    "desc": "Be Snowed Under: Be extremely busy with work or things to do"
+  },
+  {
+    "title": "Bean Counters",
+    "desc": "Bean Counters: Accountants, finance professionals in an organization"
+  },
+  {
+    "title": "Bean Counters",
+    "desc": "Bean Counters: Accountants, finance professionals in an organization"
+  },
+  {
+    "title": "Beat Around the Bush",
+    "desc": "Beat Around the Bush: To speak in a roundabout way in order to avoid confronting an unpleasant topic"
+  },
+  {
+    "title": "Beat Someone To The Draw",
+    "desc": "Beat Someone To The Draw: To accomplish or obtain something more quickly than someone else"
+  },
+  {
+    "title": "Beat Someone to the Punch",
+    "desc": "Beat Someone to the Punch: Do something before or faster than someone else"
+  },
+  {
+    "title": "Beat the Drum for (Something)",
+    "desc": "Beat the Drum for (Something): Speak in favor of something to try to generate support"
+  },
+  {
+    "title": "Beauty Is Only Skin Deep",
+    "desc": "Beauty Is Only Skin Deep: External appearance is a superficial basis for judging someone"
+  },
+  { "title": "Bed of Roses", "desc": "Bed of Roses: A comfortable situation" },
+  {
+    "title": "Bedroom Eyes",
+    "desc": "Bedroom Eyes: An expression of the eyes that seems to invite sex"
+  },
+  {
+    "title": "Bee in One’s Bonnet",
+    "desc": "Bee in One’s Bonnet: Someone who has a bee in their bonnet has an idea which constantly occupies their thoughts."
+  },
+  {
+    "title": "Beggar Thy Neighbor",
+    "desc": "Beggar Thy Neighbor: To do something beneficial for oneself without worrying about how it affects others"
+  },
+  {
+    "title": "Behind the Eight (or 8) Ball",
+    "desc": "Behind the Eight (or 8) Ball: At a serious disadvantage"
+  },
+  {
+    "title": "Behind the Scene",
+    "desc": "Behind the Scenes: In a way not apparent to the public"
+  },
+  { "title": "Behind the Times", "desc": "Behind the Times: Old-fashioned" },
+  {
+    "title": "Bell the Cat",
+    "desc": "Bell the Cat: Take on a difficult or impossible task"
+  },
+  {
+    "title": "Bells And Whistles",
+    "desc": "Bells And Whistles: Attractive but unnecessary features of a product"
+  },
+  { "title": "Belly Laugh", "desc": "Belly Laugh: Loud, hearty laughter" },
+  {
+    "title": "Bend an Elbow",
+    "desc": "Bend an Elbow: Drink alcoholic beverages at a tavern"
+  },
+  {
+    "title": "Best (Greatest) Thing Since Sliced Bread",
+    "desc": "Best (Greatest) Thing Since Sliced Bread: An innovative development"
+  },
+  {
+    "title": "Best of Both Worlds",
+    "desc": "Best of Both Worlds: Combining two qualities that are usually separate"
+  },
+  {
+    "title": "Bet One’s Bottom Dollar (On Something)",
+    "desc": "Bet One’s Bottom Dollar (On Something): Be certain that something will happen"
+  },
+  {
+    "title": "Bet the Farm",
+    "desc": "Bet the Farm: Risk everything; spend all one’s money on something in hopes of success"
+  },
+  {
+    "title": "Better late Than Never",
+    "desc": "Better late Than Never: It implies that a belated achievement is better than not reaching a goal at all."
+  },
+  {
+    "title": "Between a Rock and a Hard Place",
+    "desc": "Between a Rock and a Hard Place: Caught between two undesirable options"
+  },
+  {
+    "title": "Between the Devil and the Deep Blue Sea",
+    "desc": "Between the Devil and the Deep Blue Sea: In a difficult position"
+  },
+  {
+    "title": "Beyond the Pale",
+    "desc": "Beyond the Pale: Too morally or socially extreme to accept"
+  },
+  {
+    "title": "Beyond the Shadow of a Doubt",
+    "desc": "Beyond the Shadow of a Doubt: Absolutely certain"
+  },
+  {
+    "title": "Big Apple",
+    "desc": "Big Apple: An informal name for New York City"
+  },
+  {
+    "title": "Big Brother",
+    "desc": "Big Brother: Government, viewed as an intrusive force in the lives of citizens; government spying"
+  },
+  {
+    "title": "Big Cheese",
+    "desc": "Big Cheese: An important person in a company or organization"
+  },
+  {
+    "title": "Big Deal",
+    "desc": "Big Deal: An important event or accomplishment"
+  },
+  { "title": "Big Fish", "desc": "Big Fish: An important person" },
+  {
+    "title": "Big Picture",
+    "desc": "Big Picture: A wide perspective; a broad view of something"
+  },
+  {
+    "title": "Big time",
+    "desc": "Big time: If you do something big time, you do it to a great degree."
+  },
+  {
+    "title": "Birds of a Feather",
+    "desc": "Birds of a Feather: People having similar characters, backgrounds, interests, or beliefs."
+  },
+  {
+    "title": "Bird’s-Eye View",
+    "desc": "Bird’s-Eye View: A view from above; a broad perspective on something"
+  },
+  {
+    "title": "Bite Off More Than You Can Chew",
+    "desc": "Bite Off More Than You Can Chew: Try to do more than one is capable of doing"
+  },
+  {
+    "title": "Bite the Bullet",
+    "desc": "Bite the Bullet: To do something even though it involves pain, discomfort, or difficulty"
+  },
+  {
+    "title": "Bite the Hand That Feeds You",
+    "desc": "Bite the Hand That Feeds You: Act badly toward someone who has helped you"
+  },
+  {
+    "title": "Bitter Pill to Swallow",
+    "desc": "Bitter Pill to Swallow: An unpleasant fact that one must accept"
+  },
+  {
+    "title": "Black and White",
+    "desc": "Black and White: A clear distinction between good and bad, positive and negative"
+  },
+  { "title": "Black Eye", "desc": "Black Eye: A mark of shame" },
+  {
+    "title": "Black Sheep",
+    "desc": "Black Sheep: A person who does not fit into a group, especially a family"
+  },
+  {
+    "title": "Black-and-Blue",
+    "desc": "Black-and-Blue: Bruised, showing signs of having been physically harmed"
+  },
+  {
+    "title": "Blank Check",
+    "desc": "Blank Check: Permission to spend or do whatever one wishes; carte blanche"
+  },
+  {
+    "title": "Blind Date",
+    "desc": "Blind Date: When two people who have never seen each other before go on a date"
+  },
+  {
+    "title": "Blinded by Love",
+    "desc": "Blinded by Love: When a person is so madly in love with somebody that they can’t see the person’s faults or negative characteristics"
+  },
+  {
+    "title": "Blood and Thunder",
+    "desc": "Blood and Thunder: A dramatic, spectacular performance"
+  },
+  {
+    "title": "Blow Away the Cobwebs",
+    "desc": "Blow Away the Cobwebs: If something blows away the cobwebs, it makes you feel more lively and refreshes your ideas."
+  },
+  {
+    "title": "Blow Hot and Cold",
+    "desc": "Blow Hot and Cold: Shift one’s level of enthusiasm repeatedly"
+  },
+  {
+    "title": "Blow Off Steam",
+    "desc": "Blow Off Steam: To express anger and frustration in a way that does no damage"
+  },
+  { "title": "Blow One’s Top", "desc": "Blow One’s Top: Lose one’s temper" },
+  {
+    "title": "Blow One’s Stack",
+    "desc": "Blow One’s Stack: To lose one’s temper and explode in anger"
+  },
+  {
+    "title": "Blow the Cobwebs Away(or Out of Something)",
+    "desc": "Blow the Cobwebs Away (or Out of Something): Make space for fresh ideas, encourage something new"
+  },
+  {
+    "title": "Blow the Whistle",
+    "desc": "Blow the Whistle: Reporting an illegal or unacceptable activity to the authorities"
+  },
+  { "title": "Blow Up", "desc": "Blow Up: Explode" },
+  {
+    "title": "Blow Your Own Trumpet",
+    "desc": "Blow Your Own Trumpet: Brag; emphasize one’s own contributions"
+  },
+  {
+    "title": "Blue Blood",
+    "desc": "Blue Blood (adj. blue-blooded): Person of aristocratic background"
+  },
+  {
+    "title": "Blue Eyed Boy",
+    "desc": "Blue Eyed Boy: A person who is a favorite of those in authority; someone whose mistakes are forgiven"
+  },
+  {
+    "title": "Blue Light Special",
+    "desc": "Blue Light Special: 1. a temporary sale at a discount store. 2. a traffic stop by the police."
+  },
+  {
+    "title": "Bob’s Your Uncle",
+    "desc": "Bob’s Your Uncle: The rest is easy; you’re almost finished"
+  },
+  {
+    "title": "Bolt From the Blue",
+    "desc": "Bolt From the Blue: Something completely unexpected"
+  },
+  {
+    "title": "Bone Dry:",
+    "desc": "Bone Dry: Completely dry, totally without moisture"
+  },
+  {
+    "title": "Born on The Wrong Side of the Blanket",
+    "desc": "Born on The Wrong Side of the Blanket: Born to parents who were not married"
+  },
+  {
+    "title": "Borrow Trouble",
+    "desc": "Borrow Trouble: Take needless risks, invite problems"
+  },
+  {
+    "title": "Bottom of the Barrel",
+    "desc": "Bottom of the Barrel: Low-quality choices"
+  },
+  {
+    "title": "Boy Toy",
+    "desc": "Boy Toy: A young man who is the lover of an older, often wealthier woman (see toyboy)"
+  },
+  {
+    "title": "Boys will be Boys",
+    "desc": "Boys will be Boys: A phrase of resignation used when boys get into trouble or are stereotypically reckless or rowdy"
+  },
+  {
+    "title": "Brainstorm",
+    "desc": "Brainstorm: To generate many ideas quickly"
+  },
+  {
+    "title": "Break a Leg",
+    "desc": "Break a Leg: Good luck! This is used for a stage performer-or for anyone else who is about to give some kind of a performance, such as an important speech"
+  },
+  {
+    "title": "Break Out in A Cold Sweat",
+    "desc": "Break Out in A Cold Sweat: To perspire from fever or anxiety"
+  },
+  {
+    "title": "Break the Bank",
+    "desc": "Break the Bank: Exhaust one’s financial resources"
+  },
+  {
+    "title": "Break The Ice",
+    "desc": "Break The Ice: To get something started, particularly by means of a social introduction or conversation"
+  },
+  {
+    "title": "Break up/ Split up(With Somebody)",
+    "desc": "Break up/ Split up (With Somebody): End the relationship"
+  },
+  {
+    "title": "Bring Home the Bacon",
+    "desc": "Bring Home the Bacon: Earn money for one’s family"
+  },
+  {
+    "title": "Bringing a Knife to a Gunfight",
+    "desc": "Bringing a Knife to a Gunfight: Underequipped or unprepared"
+  },
+  {
+    "title": "Brush Under the Carpet",
+    "desc": "Brush Under the Carpet: Attempt to temporarily conceal a problem or error"
+  },
+  {
+    "title": "Bucket List",
+    "desc": "Bucket List: Things you want to see or do before you die"
+  },
+  {
+    "title": "Bull in a China Shop",
+    "desc": "Bull in a China Shop: A clumsy or tactless person"
+  },
+  {
+    "title": "Bump in the Road",
+    "desc": "Bump in the Road: A temporary problem, a small setback"
+  },
+  { "title": "Bundle Up", "desc": "Bundle Up: Put on lots of warm clothing" },
+  {
+    "title": "Burn One’s Bridges",
+    "desc": "Burn One’s Bridges: Leave a job or a relationship on such bad terms that one does not stay in contact"
+  },
+  {
+    "title": "Burn the Candle at Both Ends",
+    "desc": "Burn the Candle at Both Ends: To work too hard, with possible bad consequences for one’s health"
+  },
+  {
+    "title": "Burn the Candle at Both Ends",
+    "desc": "Burn the Candle at Both Ends: Work very long hours"
+  },
+  {
+    "title": "Burn the Midnight Oil",
+    "desc": "Burn the Midnight Oil: To work late into the night"
+  },
+  {
+    "title": "Burn the Midnight Oil",
+    "desc": "Burn the Midnight Oil: Working late into the night"
+  },
+  {
+    "title": "Bury (Hide) One’s Head In the Sand",
+    "desc": "Bury (Hide) One’s Head In the Sand: Ignoring something that’s obviously wrong, not facing reality"
+  },
+  {
+    "title": "Bury the Hatchet",
+    "desc": "Bury the Hatchet: Make peace, agree to end a dispute"
+  },
+  {
+    "title": "Business as Usual",
+    "desc": "Business as Usual: A normal situation (whether related to business or not), typically restored after some change"
+  },
+  {
+    "title": "Busman’s Holiday",
+    "desc": "Busman’s Holiday (UK): A working vacation"
+  },
+  {
+    "title": "Busman’s Holiday",
+    "desc": "Busman’s Holiday: A vacation where you do the same thing you do at work, a working vacation"
+  },
+  {
+    "title": "Busted Flush",
+    "desc": "Busted Flush: A failure, someone or something that seemed promising but did not develop well"
+  },
+  {
+    "title": "Butter Wouldn’t Melt in (Someone’s)",
+    "desc": "Butter Wouldn’t Melt in (Someone’s): Mouth This person is cool in manner, prim and proper"
+  },
+  {
+    "title": "Buy a Pig in a Poke",
+    "desc": "Buy a Pig in a Poke: To buy something with no prior inspection"
+  },
+  {
+    "title": "Buy Time",
+    "desc": "Buy Time: Cause a delay in something with the aim of improving one’s position"
+  },
+  { "title": "By a Whisker", "desc": "By a Whisker: By a very short distance" },
+  { "title": "By All Means", "desc": "By All Means: Of course, certainly" },
+  {
+    "title": "By Hook or by Crook",
+    "desc": "By Hook or by Crook: By some possibly dishonest means"
+  },
+  {
+    "title": "By the Skin of One’s Teeth",
+    "desc": "By the Skin of One’s Teeth: Barely escaping disaster"
+  },
+  {
+    "title": "By Word of Mouth",
+    "desc": "By Word of Mouth: Via personal communications rather than written media"
+  },
+  {
+    "title": "Call a Spade a Spade",
+    "desc": "Call a Spade a Spade: To speak frankly and directly about a problem"
+  },
+  {
+    "title": "Call It a Day",
+    "desc": "Call It a Day: Decide that one has worked enough on something for the day"
+  },
+  {
+    "title": "Call It a Night:",
+    "desc": "Call It a Night: End an evening’s activities and go home"
+  },
+  {
+    "title": "Call the Shots",
+    "desc": "Call the Shots: Make the important decisions in an organization"
+  },
+  {
+    "title": "Call the Tune",
+    "desc": "Call the Tune: Making important decisions and controlling a situation."
+  },
+  {
+    "title": "Can’t See the Forest for the Trees",
+    "desc": "Can’t See the Forest for the Trees: Is unable to maintain a wider perspective"
+  },
+  {
+    "title": "Can’t Swing A Dead Cat In(Place)",
+    "desc": "Can’t Swing A Dead Cat In (Place): Without Hitting A (Thing) There are many examples of [thing] in this [place]."
+  },
+  {
+    "title": "Carrot-and-Stick (Approach)",
+    "desc": "Carrot-and-Stick (Approach): A tactic in which rewards are offered, but there is also the threat of punishment"
+  },
+  {
+    "title": "Carry a Torch (for)",
+    "desc": "Carry a Torch (for): To continue to be in love with someone even after a relationship has ended"
+  },
+  {
+    "title": "Carry Coals To Newcastle",
+    "desc": "Carry Coals To Newcastle: Supply something that is unneeded; engage in useless labor"
+  },
+  {
+    "title": "Carry the Can",
+    "desc": "Carry the Can: To take the blame for something one did not do"
+  },
+  {
+    "title": "Cash In One’s Chips",
+    "desc": "Cash In One’s Chips: 1. To take advantage of a quick profit 2. To die"
+  },
+  { "title": "Cash-Strapped", "desc": "Cash-Strapped: In need of money" },
+  {
+    "title": "Cast the First Stone",
+    "desc": "Cast the First Stone: To be the first to criticize or attack someone"
+  },
+  {
+    "title": "Castle in the Air",
+    "desc": "Castle in the Air: An impractical plan"
+  },
+  { "title": "Cat Fight", "desc": "Cat Fight: A fight between two women" },
+  {
+    "title": "Cat Got Your Tongue?",
+    "desc": "Cat Got Your Tongue?: Don’t you have anything to say?"
+  },
+  {
+    "title": "Cat on a hot tin roof",
+    "desc": "Cat on a hot tin roof: Be extremely nervous"
+  },
+  {
+    "title": "Cat-and-Mouse(adj.)",
+    "desc": "Cat-and-Mouse (adj.): In a toying way; playful in an unpleasant way"
+  },
+  {
+    "title": "Catch One’s Death of Cold",
+    "desc": "Catch One’s Death of Cold: To become very ill (with a cold/flu etc.)"
+  },
+  {
+    "title": "Catch Some Rays",
+    "desc": "Catch Some Rays: To sit or lie outside in the sun"
+  },
+  {
+    "title": "Catch Someone’s Eye",
+    "desc": "Catch Someone’s Eye: Attract someone’s attention"
+  },
+  {
+    "title": "Catch-22",
+    "desc": "Catch-22: A difficult situation from which there is no escape because options for avoiding it involve contradictions"
+  },
+  {
+    "title": "Cat’s Paw",
+    "desc": "Cat’s Paw: A person being used by someone else, a tool"
+  },
+  {
+    "title": "Caught Red-Handed",
+    "desc": "Caught Red-Handed: Apprehended while committing a crime"
+  },
+  {
+    "title": "Circle the Wagons",
+    "desc": "Circle the Wagons: To prepare as a group to defend against attack, adopt a defensive posture"
+  },
+  {
+    "title": "Claim to Fame",
+    "desc": "Claim to Fame: Unusual feature or offering"
+  },
+  {
+    "title": "Clean Up Nicely",
+    "desc": "Clean Up Nicely: Look good when one is dressed up. Usually said of women"
+  },
+  {
+    "title": "Clear the Air",
+    "desc": "Clear the Air: Defuse tension, be honest about conflict so as to reduce it"
+  },
+  {
+    "title": "Clip Someone’s Wings",
+    "desc": "Clip Someone’s Wings: Reduce someone’s privileges or freedom"
+  },
+  {
+    "title": "Close, But No Cigar",
+    "desc": "Close, But No Cigar: You are very close but not quite correct."
+  },
+  {
+    "title": "Cock and Bull Story",
+    "desc": "Cock and Bull Story: A far-fetched story, probably untrue"
+  },
+  { "title": "Cock-A-Hoop", "desc": "Cock-A-Hoop: Elated, excited" },
+  {
+    "title": "Cold Day in Hel",
+    "desc": "Cold Day in Hell: A condition for something that would be extremely unlikely to occur"
+  },
+  {
+    "title": "Come By Something Honestly",
+    "desc": "Come By Something Honestly: Acquire something honestly, or inherit it"
+  },
+  {
+    "title": "Come Clean",
+    "desc": "Come Clean: To confess; to admit to wrongdoing"
+  },
+  {
+    "title": "Come Hell or High Water",
+    "desc": "Come Hell or High Water: No matter what happens"
+  },
+  {
+    "title": "Come Out in the Wash",
+    "desc": "Come Out in the Wash: To be resolved with no lasting negative effect"
+  },
+  {
+    "title": "Come Out of the Closet",
+    "desc": "Come Out of the Closet: Reveal a secret about oneself, usually that one is gay (homosexual)"
+  },
+  {
+    "title": "Come Out Swinging",
+    "desc": "Come Out Swinging: Respond to something very aggressively"
+  },
+  {
+    "title": "Come Rain and Shine",
+    "desc": "Come Rain and Shine: Do regularly, whatever the circumstances"
+  },
+  {
+    "title": "Come to Grips With",
+    "desc": "Come to Grips With: To acknowledge a problem as a prelude to dealing with it"
+  },
+  {
+    "title": "Come to Terms With (Something)",
+    "desc": "Come to Terms With (Something): Feel acceptance toward something bad that has happened"
+  },
+  {
+    "title": "Coming Down the Pike",
+    "desc": "Coming Down the Pike: Likely to occur in the near future"
+  },
+  {
+    "title": "Cook Someone’s Goose",
+    "desc": "Cook Someone’s Goose: To insure someone’s defeat, to frustrate someone’s plans"
+  },
+  {
+    "title": "Cook Up a Storm",
+    "desc": "Cook Up a Storm: Cook a great deal of food"
+  },
+  {
+    "title": "Cooking Up a Storm",
+    "desc": "Cooking Up a Storm: Cooking a great deal of food"
+  },
+  {
+    "title": "Cool as A Cucumber",
+    "desc": "Cool as A Cucumber: Calm and composed even in difficult or frustrating situations; self-possessed"
+  },
+  {
+    "title": "Cool Cat",
+    "desc": "Cool Cat: Someone who has the respect of their peers in a young, casual way."
+  },
+  { "title": "Cool Your Heels", "desc": "Cool Your Heels: Wait" },
+  {
+    "title": "Couch Potato",
+    "desc": "Couch Potato: A lazy person who watches a great deal of television"
+  },
+  {
+    "title": "Crash a Party",
+    "desc": "Crash a Party: To attend a party without being invited"
+  },
+  { "title": "Crickets", "desc": "Crickets: Silence" },
+  {
+    "title": "Cross to Bear",
+    "desc": "Cross to Bear: A problem one must deal with over a long time, a heavy burden"
+  },
+  {
+    "title": "Crunch Time",
+    "desc": "Crunch Time: A period of high pressure when one has to work hard to finish something"
+  },
+  {
+    "title": "Crunch the Numbers",
+    "desc": "Crunch the Numbers: Do calculations before making a decision or prediction"
+  },
+  {
+    "title": "Cry Over Spilt (USA: Spilled)",
+    "desc": "Cry Over Spilt (USA: Spilled): Milk To waste energy moaning about something that has already happened"
+  },
+  {
+    "title": "Cry Wolf(verb)",
+    "desc": "Cry Wolf (verb): To issue a false alarm, to ask for help when none is needed"
+  },
+  {
+    "title": "Cry Your Eyes Out",
+    "desc": "Cry Your Eyes Out: Cry hard for a very long time"
+  },
+  {
+    "title": "Cry Your Eyes Out",
+    "desc": "Cry Your Eyes Out: Cry hard for a very long time"
+  },
+  {
+    "title": "Curiosity Killed The Cat",
+    "desc": "Curiosity Killed The Cat: Stop asking questions, don’t be too curious"
+  },
+  {
+    "title": "Cut (Someone) To the Quick",
+    "desc": "Cut (Someone) To the Quick: To deeply hurt someone emotionally"
+  },
+  {
+    "title": "Cut Corners",
+    "desc": "Cut Corners: Economize by reducing quality; take shortcuts"
+  },
+  {
+    "title": "Cut It Fine",
+    "desc": "Cut It Fine: To do something at the last moment"
+  },
+  {
+    "title": "Cut Off Your Nose to Spite Your Face",
+    "desc": "Cut Off Your Nose to Spite Your Face: To act in a proud way that ultimately damages your own cause"
+  },
+  {
+    "title": "Cut Someone Some Slack",
+    "desc": "Cut Someone Some Slack: Avoid treating someone strictly or severely"
+  },
+  {
+    "title": "Cut to the Chase",
+    "desc": "Cut to the Chase: Get to the point; explain the most important part of something quickly; skip the preliminaries"
+  },
+  {
+    "title": "Cut the Gordian Knot",
+    "desc": "Cut the Gordian Knot: To solve a complex problem in a simple way"
+  },
+  {
+    "title": "Cut the Mustard",
+    "desc": "Cut the Mustard: Do something adequately"
+  },
+  {
+    "title": "Cut Your Teeth on Something",
+    "desc": "Cut Your Teeth on Something: To learn basic skills in a field"
+  },
+  { "title": "Cutting-Edge", "desc": "Cutting-Edge: Very novel, innovative" },
+  {
+    "title": "Champagne taste on a beer budget",
+    "desc": "Champagne taste on a beer budget: Expensive or extravagant tastes or preferences that are beyond one’s economic means."
+  },
+  {
+    "title": "Change Horses in Midstream",
+    "desc": "Change Horses in Midstream: Change plans or leaders in the middle of a process"
+  },
+  {
+    "title": "Change of Heart",
+    "desc": "Change of Heart: A change in one’s opinion or outlook"
+  },
+  {
+    "title": "Change One’s Tune",
+    "desc": "Change One’s Tune: To alter one’s opinion about something."
+  },
+  {
+    "title": "Changing of the Guard",
+    "desc": "Changing of the Guard: A change in leadership at an organization"
+  },
+  {
+    "title": "Chase Rainbows",
+    "desc": "Chase Rainbows: To pursue unrealistic goals"
+  },
+  {
+    "title": "Cheap Shot",
+    "desc": "Cheap Shot: An unfair attack; a statement that unfairly attacks someone’s weakness"
+  },
+  {
+    "title": "Cherry-Pick",
+    "desc": "Cherry-Pick: To present evidence selectively to one’s own advantage"
+  },
+  {
+    "title": "Cherry-Pick",
+    "desc": "Cherry-Pick: To select the best or most desirable"
+  },
+  {
+    "title": "Chew the Fat",
+    "desc": "Chew the Fat: Chat for a considerable length of time"
+  },
+  {
+    "title": "Chickens Come Home To Roost",
+    "desc": "Chickens Come Home To Roost: The negative consequences of previous actions reveal themselves"
+  },
+  { "title": "Child’s Play", "desc": "Child’s Play: A very easy task" },
+  {
+    "title": "Chill Out",
+    "desc": "Chill Out: Do something that helps them to calm down and relax for a while."
+  },
+  { "title": "Chin Music", "desc": "Chin Music: Meaningless talk" },
+  {
+    "title": "Chin Up/ Keep Your Chin Up",
+    "desc": "Chin Up/ Keep Your Chin Up: Cheer up; try to be cheerful and strong"
+  },
+  {
+    "title": "Chip off the Old Block",
+    "desc": "Chip off the Old Block: Someone who resembles a direct ancestor, usually the father"
+  },
+  {
+    "title": "Chomp (Champ) at the Bit",
+    "desc": "Chomp (Champ) at the Bit: Be eager to do something"
+  },
+  {
+    "title": "Chomp at the Bit",
+    "desc": "Chomp at the Bit: To be eager to do something"
+  },
+  { "title": "Chop Chop", "desc": "Chop Chop: Quickly, without delay" },
+  {
+    "title": "Chop Shop",
+    "desc": "Chop Shop: A shop where stolen cars are disassembled for parts"
+  },
+  {
+    "title": "Chuck a Wobbly",
+    "desc": "Chuck a Wobbly: To act in an emotional way"
+  },
+  {
+    "title": "Da Man (Slang)",
+    "desc": "Da Man (Slang): An accomplished or skillful person. Generally used in the compliment “”You da man!””"
+  },
+  {
+    "title": "Dance to Someone’s Tune",
+    "desc": "Dance to Someone’s Tune: Consistently follow someone’s directions or influence"
+  },
+  {
+    "title": "Dance with the Devil",
+    "desc": "Dance with the Devil: Knowingly do something immoral"
+  },
+  {
+    "title": "Dark Horse",
+    "desc": "Dark Horse: A surprise candidate or competitor, especially one who comes from behind to make a strong showing"
+  },
+  {
+    "title": "Darken Someone’s Door(Step)",
+    "desc": "Darken Someone’s Door (Step): Make an unwanted visit to someone’s home"
+  },
+  {
+    "title": "Dead Ahead",
+    "desc": "Dead Ahead: Directly ahead, either in a literal or a figurative sense"
+  },
+  {
+    "title": "Dead as the Dodo",
+    "desc": "Dead as the Dodo: Completely extinct; totally gone"
+  },
+  { "title": "Dead Eye", "desc": "Dead Eye: A good shooter, a good marksman" },
+  {
+    "title": "Dead Heat",
+    "desc": "Dead Heat: An exact tie in a race or competition"
+  },
+  {
+    "title": "Dead of Winter",
+    "desc": "Dead of Winter: The coldest, darkest part of winter"
+  },
+  { "title": "Dead ringer", "desc": "Dead ringer: Very similar in appearance" },
+  { "title": "Dead Run", "desc": "Dead Run: Running as fast as possible" },
+  {
+    "title": "Dead Shot",
+    "desc": "Dead Shot: A good shooter, a good marksman"
+  },
+  {
+    "title": "Deep Pockets",
+    "desc": "Deep Pockets: The new owner has deep pockets, so fans are hoping the football team will improve next year with new players"
+  },
+  {
+    "title": "Deliver the Goods",
+    "desc": "Deliver the Goods: Provide what is expected"
+  },
+  {
+    "title": "Devil’s Advocate",
+    "desc": "Devil’s Advocate: Someone who argues a point not out of conviction, but in order to air various points of view"
+  },
+  {
+    "title": "Dirty Look",
+    "desc": "Dirty Look: A facial manner that signifies disapproval"
+  },
+  { "title": "Do 12-Ounce Curls", "desc": "Do 12-Ounce Curls: Drink beer" },
+  {
+    "title": "Dodge a Bullet",
+    "desc": "Dodge a Bullet: To narrowly escape disaster"
+  },
+  {
+    "title": "Doesn’t Amount to a Hill of Beans",
+    "desc": "Doesn’t Amount to a Hill of Beans: Is unimportant, is negligible"
+  },
+  {
+    "title": "Dog Days of the Summer",
+    "desc": "Dog Days of the Summer: The hottest day of summer"
+  },
+  {
+    "title": "Dog in the Manger",
+    "desc": "Dog in the Manger: A person who prevents others from using something, even though the person himself or herself does not want it"
+  },
+  {
+    "title": "Dog-and-Pony Show",
+    "desc": "Dog-and-Pony Show: A flashy presentation, often in a marketing context"
+  },
+  { "title": "Dog-Eat-Dog", "desc": "Dog-Eat-Dog: Intensely competitive" },
+  {
+    "title": "Don’t Judge a Book by Its Cover",
+    "desc": "Don’t Judge a Book by Its Cover: Don’t be deceived by looks; don’t rely on looks when judging someone or something"
+  },
+  {
+    "title": "Don’t Cry Over Spilled Milk",
+    "desc": "Don’t Cry Over Spilled Milk: Don’t worry about minor things."
+  },
+  {
+    "title": "Don’t Look a Gift Horse in the Mouth",
+    "desc": "Don’t Look a Gift Horse in the Mouth: Do not question the value of a gift. The expression comes from the practice of determining the age and health of a horse by looking at its teeth."
+  },
+  {
+    "title": "Double-Dip",
+    "desc": "Double-Dip: Improperly get income from two different sources"
+  },
+  {
+    "title": "Double-Edged Sword",
+    "desc": "Double-Edged Sword: Something that can be helpful or harmful; something beneficial that also has a downside"
+  },
+  { "title": "Down in the Dumps", "desc": "Down in the Dumps: Depressed, sad" },
+  {
+    "title": "Down the Road",
+    "desc": "Down the Road: In the future (in your lifetime)"
+  },
+  {
+    "title": "Drag One’s Feet (or Heels)",
+    "desc": "Drag One’s Feet (or Heels): To do something reluctantly and slowly"
+  },
+  {
+    "title": "Drag Your Feet",
+    "desc": "Drag Your Feet: Do something very reluctantly; delay doing something"
+  },
+  { "title": "Drain the Lizard", "desc": "Drain the Lizard: Urinate" },
+  {
+    "title": "Draw a Blank",
+    "desc": "Draw a Blank: Be unable to remember something"
+  },
+  {
+    "title": "Draw a Line in the Sand",
+    "desc": "Draw a Line in the Sand: Issue an ultimatum; specify an absolute limit in a conflict"
+  },
+  {
+    "title": "Draw a Line Under (Something)",
+    "desc": "Draw a Line Under (Something): To conclude something and move on to something else"
+  },
+  { "title": "Draw a Long Bow", "desc": "Draw a Long Bow: Exaggerate, lie" },
+  {
+    "title": "Draw the Line",
+    "desc": "Draw the Line: To set a limit to what one will accept"
+  },
+  {
+    "title": "Dressed Up to the Nines",
+    "desc": "Dressed Up to the Nines: Someone is wearing very smart or glamorous clothes"
+  },
+  {
+    "title": "Drink the Kool-Aid",
+    "desc": "Drink the Kool-Aid: Accept a set of ideas uncritically, often dangerous ones"
+  },
+  {
+    "title": "Drive a Hard Bargain",
+    "desc": "Drive a Hard Bargain: To arrange a transaction so that it benefits oneself."
+  },
+  {
+    "title": "Drive a Hard Bargain",
+    "desc": "Drive a Hard Bargain: To negotiate effectively"
+  },
+  {
+    "title": "Drive a Wedge Between",
+    "desc": "Drive a Wedge Between: Try to split factions of a united group by introducing an issue on which they disagree"
+  },
+  {
+    "title": "Drive Someone Up the Wall",
+    "desc": "Drive Someone Up the Wall: Deeply irritate someone"
+  },
+  {
+    "title": "Drop a Line",
+    "desc": "Drop a Line: To write a letter or send an email"
+  },
+  {
+    "title": "Drop the Ball",
+    "desc": "Drop the Ball: Fail to fulfill one’s responsibilities; make a mistake"
+  },
+  {
+    "title": "Dry Run",
+    "desc": "Dry Run: A practice execution of a procedure"
+  },
+  {
+    "title": "Dutch Courage",
+    "desc": "Dutch Courage: Alcohol drunk with the intention of working up the nerve to do something"
+  },
+  { "title": "Dutch Uncle", "desc": "Dutch Uncle: A highly critical person" },
+  {
+    "title": "Dyed-In-The-Wool (adj.)",
+    "desc": "Dyed-In-The-Wool (adj.): Consistent in an affiliation or opinion over a long period; inveterate"
+  },
+  {
+    "title": "Eager beaver",
+    "desc": "Eager beaver: The term eager beaver refers to a person who is hardworking and enthusiastic, sometimes considered overzealous."
+  },
+  { "title": "Eagle-Eyed", "desc": "Eagle-Eyed: Having sharp vision" },
+  {
+    "title": "Early Bird[noun or adjective]",
+    "desc": "Early Bird [noun or adjective]: Someone who does something prior to the usual time, or someone who gets up early."
+  },
+  {
+    "title": "Eat Crow",
+    "desc": "Eat Crow: To admit one was wrong, and accept humiliation"
+  },
+  {
+    "title": "Eat Humble Pie",
+    "desc": "Eat Humble Pie: To admit defeat or error, to accept humiliation"
+  },
+  {
+    "title": "Eat Someone’s Lunch",
+    "desc": "Eat Someone’s Lunch: Defeat someone thoroughly"
+  },
+  {
+    "title": "Eat Your Heart Out!",
+    "desc": "Eat Your Heart Out!: (excl.) Go ahead, be jealous."
+  },
+  {
+    "title": "Eighty-Six (v.)",
+    "desc": "Eighty-Six (v.): 1) Discard, eliminate. 2) Throw someone out of a bar or store."
+  },
+  {
+    "title": "Elephant in the Room",
+    "desc": "Elephant in the Room: A major problem that no one is talking about"
+  },
+  {
+    "title": "Elevator Music",
+    "desc": "Elevator Music: Pleasant but boring recorded music that is played in public places."
+  },
+  {
+    "title": "Elevator Pitch",
+    "desc": "Elevator Pitch: A brief presentation of an idea, one short enough to be delivered in an elevator"
+  },
+  { "title": "Eleventh Hour", "desc": "Eleventh Hour: The last minute" },
+  {
+    "title": "Even Steven",
+    "desc": "Even Steven: Owing nothing; tied (in a game)"
+  },
+  {
+    "title": "Every Dog Has His(Its)",
+    "desc": "Every Dog Has His (Its): Day Everyone has a moment of fame, power, or influence"
+  },
+  {
+    "title": "Every Man and His Dog",
+    "desc": "Every Man and His Dog: Many people"
+  },
+  {
+    "title": "Every Man for Himself",
+    "desc": "Every Man for Himself: Pursue your own interests; don’t expect help from others."
+  },
+  {
+    "title": "Excused Boots",
+    "desc": "Excused Boots: Allowed to avoid mandatory tasks"
+  },
+  {
+    "title": "Face the Music",
+    "desc": "Face the Music: Dealing with consequences of one’s actions"
+  },
+  {
+    "title": "Face the Music",
+    "desc": "Face the Music: To accept judgment or punishment"
+  },
+  {
+    "title": "Fall for Something",
+    "desc": "Fall for Something: Hook, Line, and Sinker To be completely deceived"
+  },
+  {
+    "title": "Fall in Love with Somebody",
+    "desc": "Fall in Love with Somebody: Start feeling love towards somebody"
+  },
+  {
+    "title": "Fall Off the Wagon",
+    "desc": "Fall Off the Wagon: To begin using alcohol (or another problem substance) after quitting"
+  },
+  {
+    "title": "Fall on One’s Sword",
+    "desc": "Fall on One’s Sword: To accept blame; to sacrifice oneself"
+  },
+  {
+    "title": "Fall Prey to",
+    "desc": "Fall Prey to: Be victimized by; be harmed by; be vulnerable to"
+  },
+  {
+    "title": "Fancy Someone (British English)",
+    "desc": "Fancy Someone (British English): To find someone very attractive"
+  },
+  {
+    "title": "Farther (On) Down the Road",
+    "desc": "Farther (On) Down the Road: Later, at some unspecified time"
+  },
+  {
+    "title": "Farther (On) Down the Road",
+    "desc": "Farther (On) Down the Road: Later, at some unspecified time"
+  },
+  {
+    "title": "Fashion-Forward",
+    "desc": "Fashion-Forward: Tending to adopt new styles quickly"
+  },
+  {
+    "title": "Fat Cat",
+    "desc": "Fat Cat: A highly placed, well-paid executive"
+  },
+  {
+    "title": "Father Figure",
+    "desc": "Father Figure: A mentor, a person who offers guidance"
+  },
+  {
+    "title": "Feast Your Eyes On",
+    "desc": "Feast Your Eyes On: To take great pleasure in looking at someone or something"
+  },
+  {
+    "title": "Feather in One’s Cap",
+    "desc": "Feather in One’s Cap: An achievement for which one is recognized; a noteworthy achievement"
+  },
+  {
+    "title": "Feather One’s (Own) Nest",
+    "desc": "Feather One’s (Own) Nest: Use one’s influence or power improperly for financial gain"
+  },
+  {
+    "title": "Feather One’s Nest",
+    "desc": "Feather One’s Nest: To take advantage of one’s position to benefit oneself"
+  },
+  {
+    "title": "Fed Up With",
+    "desc": "Fed Up With: Refusing to tolerate something any further; out of patience"
+  },
+  {
+    "title": "Feel Like a Million Dollars",
+    "desc": "Feel Like a Million Dollars: To feel great, to feel well and healthy."
+  },
+  {
+    "title": "Feel On Top of The World",
+    "desc": "Feel On Top of The World: To feel very healthy"
+  },
+  {
+    "title": "Fell off a Truck",
+    "desc": "Fell off a Truck: Probably stolen or illicitly obtained; said of something offered for sale to avoid discussing its origins"
+  },
+  {
+    "title": "Fell off the Back of a Lorry",
+    "desc": "Fell off the Back of a Lorry: Probably stolen or illicitly obtained; said of something offered for sale to avoid discussing its origins"
+  },
+  {
+    "title": "Fifteen Minutes of Fame",
+    "desc": "Fifteen Minutes of Fame: Temporary renown"
+  },
+  { "title": "Fifth Wheel", "desc": "Fifth Wheel: A superfluous person" },
+  {
+    "title": "Fight Fire with Fire",
+    "desc": "Fight Fire with Fire: Use the same measures that are being used against you, even if they’re stronger than you would usually use"
+  },
+  {
+    "title": "Fight Like Cat and Dog",
+    "desc": "Fight Like Cat and Dog: Continually arguing with each other"
+  },
+  {
+    "title": "Find One’s Voice",
+    "desc": "Find One’s Voice: Become more confident in expressing oneself"
+  },
+  {
+    "title": "Find Your Feet",
+    "desc": "Find Your Feet: To adjust to a new place or situation"
+  },
+  {
+    "title": "Finger-Pointing",
+    "desc": "Finger-Pointing: Blame; a situation within a group where each member attempts to blame others"
+  },
+  {
+    "title": "Finger-Pointing",
+    "desc": "Finger-Pointing: Blame; a situation within a group where each member attempts to blame others"
+  },
+  {
+    "title": "Fire in the Belly",
+    "desc": "Fire in the Belly: strong ambition"
+  },
+  {
+    "title": "First In, Best Dressed",
+    "desc": "First In, Best Dressed: The first people to do something will have an advantage"
+  },
+  {
+    "title": "Fish for Compliments",
+    "desc": "Fish for Compliments: Try to manipulate people into praising you"
+  },
+  {
+    "title": "Fish or Cut Bait",
+    "desc": "Fish or Cut Bait (usually an exclamation): Make a decision or give someone else a chance"
+  },
+  {
+    "title": "Fish Out of Water",
+    "desc": "Fish Out of Water: A person who is in unfamiliar, confusing surroundings"
+  },
+  {
+    "title": "Five-Finger Discount",
+    "desc": "Five-Finger Discount: Shoplifting"
+  },
+  {
+    "title": "Flash in the Pan",
+    "desc": "Flash in the Pan: A one-time occurrence, not a permanent phenomenon"
+  },
+  { "title": "Flat Broke", "desc": "Flat Broke: Having no money at all" },
+  {
+    "title": "Flat Out Like a Lizard",
+    "desc": "Flat Out Like a Lizard: Drinking Very busy"
+  },
+  {
+    "title": "Flesh and Blood",
+    "desc": "Flesh and Blood: Blood relatives, close relatives"
+  },
+  { "title": "Flew the Coop", "desc": "Flew the Coop: Left, escaped" },
+  {
+    "title": "Flip-Flop",
+    "desc": "Flip-Flop (v. or n.): To vacillate between two choices, to be indecisive"
+  },
+  {
+    "title": "Fly by the Seat of One’s Pants",
+    "desc": "Fly by the Seat of One’s Pants: To improvise, to make decisions without planning or preparation"
+  },
+  {
+    "title": "Fly High",
+    "desc": "Fly High: Be very successful, especially temporarily"
+  },
+  {
+    "title": "Fly Off The Handle",
+    "desc": "Fly Off The Handle: Lose one’s temper suddenly and unexpectedly"
+  },
+  {
+    "title": "Fly off the Handle",
+    "desc": "Fly off the Handle: To become suddenly enraged"
+  },
+  {
+    "title": "Follow In Someone’s Footsteps(Tracks)",
+    "desc": "Follow In Someone’s Footsteps (Tracks): Follow the example laid down by someone else; supplant"
+  },
+  {
+    "title": "Follow Your Heart",
+    "desc": "Follow Your Heart: Rely on one’s deeper feelings and instincts when making a decision"
+  },
+  {
+    "title": "Food for Thought",
+    "desc": "Food for Thought: Something that makes you think carefully"
+  },
+  { "title": "For a Song", "desc": "For a Song: At very low cost" },
+  { "title": "For a Song", "desc": "For a Song: At very low cost" },
+  {
+    "title": "For Crying Out Loud (excl.)",
+    "desc": "For Crying Out Loud (excl.): An expression of extreme annoyance"
+  },
+  {
+    "title": "For Xyz Reasons",
+    "desc": "For Xyz Reasons: For multiple reasons, not worth specifying individually"
+  },
+  { "title": "Foul Play", "desc": "Foul Play: Crime, typically murder" },
+  {
+    "title": "Fourth Estate",
+    "desc": "Fourth Estate: The media and newspapers"
+  },
+  {
+    "title": "Fox in the Henhouse (Chickenhouse)",
+    "desc": "Fox in the Henhouse (Chickenhouse): Someone who causes trouble"
+  },
+  {
+    "title": "Freak Out",
+    "desc": "Freak Out: A wildly irrational reaction or spell of behavior"
+  },
+  {
+    "title": "French Leave",
+    "desc": "French Leave: Absence without permission"
+  },
+  {
+    "title": "Freudian Slip",
+    "desc": "Freudian Slip: Accidental use of an incorrect word; a revealing slip of the tongue"
+  },
+  {
+    "title": "From Pillar to Post",
+    "desc": "From Pillar to Post: From one place to another, in a forced, random way"
+  },
+  {
+    "title": "From Scratch",
+    "desc": "From Scratch: From individual ingredients, not using a prepared mix"
+  },
+  {
+    "title": "From Soup to Nuts",
+    "desc": "From Soup to Nuts: Everything; from beginning to end"
+  },
+  {
+    "title": "From the Bottom of One’s Heart",
+    "desc": "From the Bottom of One’s Heart: Sincerely and with deep feeling"
+  },
+  {
+    "title": "FUBAR",
+    "desc": "FUBAR: Hopelessly ruined, not working, messed up."
+  },
+  {
+    "title": "Fu** (Or Screw) The Dog (Pooch)",
+    "desc": "Fu** (Or Screw) The Dog (Pooch): To make an embarrassing error"
+  },
+  {
+    "title": "Full Fathom Five",
+    "desc": "Full Fathom Five: Lost deep in the sea"
+  },
+  {
+    "title": "Full of the Joys of Spring",
+    "desc": "Full of the Joys of Spring: Very happy, enthusiastic and full of energy"
+  },
+  {
+    "title": "Game of Chicken",
+    "desc": "Game of Chicken: A conflict situation in which neither side will back down for fear of seeming cowardly (chicken)"
+  },
+  {
+    "title": "Get A Charley Horse",
+    "desc": "Get A Charley Horse: To develop a cramp in the arm or the leg"
+  },
+  {
+    "title": "Get A Word In Edgewise",
+    "desc": "Get A Word In Edgewise: Be able to say something while someone else is talking a lot"
+  },
+  {
+    "title": "Get Along (with Someone)",
+    "desc": "Get Along (with Someone): To have a satisfactory relationship"
+  },
+  {
+    "title": "Get Bent Out of Shape",
+    "desc": "Get Bent Out of Shape: Become angry, upset"
+  },
+  {
+    "title": "Get Carried Away",
+    "desc": "Get Carried Away: Become overly enthusiastic"
+  },
+  {
+    "title": "Get In on the Ground Floor",
+    "desc": "Get In on the Ground Floor: Invest in or join something while it is still small"
+  },
+  {
+    "title": "Get in Shape",
+    "desc": "Get in Shape: Undertake a program of physical conditioning; exercise regularly"
+  },
+  {
+    "title": "Get Off Scot Free",
+    "desc": "Get Off Scot Free: Be accused of wrongdoing but pay no penalty at all"
+  },
+  {
+    "title": "Get Off Scot Free",
+    "desc": "Get Off Scot Free: Be accused of wrongdoing but pay no penalty at all"
+  },
+  {
+    "title": "Get One’s Ducks in a Row",
+    "desc": "Get One’s Ducks in a Row: Have everything organized; get oneself organized"
+  },
+  {
+    "title": "Get One’s Hands Dirty",
+    "desc": "Get One’s Hands Dirty: To do the unpleasant parts of a job"
+  },
+  {
+    "title": "Get Someone’s Goat",
+    "desc": "Get Someone’s Goat: To irritate someone deeply"
+  },
+  {
+    "title": "Get To Grips With",
+    "desc": "Get To Grips With: To begin to understand and deal with something"
+  },
+  {
+    "title": "Get the Ball Rolling",
+    "desc": "Get the Ball Rolling: Do something to begin a process"
+  },
+  {
+    "title": "Get the Picture",
+    "desc": "Get the Picture: Understand what’s happening"
+  },
+  {
+    "title": "Get the Runaround",
+    "desc": "Get the Runaround: Be given an unclear or evasive answer to a question"
+  },
+  {
+    "title": "Get the Sack, Be Sacked",
+    "desc": "Get the Sack, Be Sacked: To be fired"
+  },
+  {
+    "title": "Get the Third Degree",
+    "desc": "Get the Third Degree: To be questioned in great detail about something"
+  },
+  { "title": "Get Wind of", "desc": "Get Wind of: Hear about" },
+  {
+    "title": "Get With the Program",
+    "desc": "Get With the Program: Figure out what everyone else already knows. Often used sarcastically, as a command"
+  },
+  {
+    "title": "Go Along(With)",
+    "desc": "Go Along (With): Agree to something, often provisionally"
+  },
+  { "title": "Go Ape", "desc": "Go Ape: Express wild excitement or anger" },
+  { "title": "Go Ballistic", "desc": "Go Ballistic: Fly into a rage" },
+  {
+    "title": "Go Bananas",
+    "desc": "Go Bananas: To become irrational or crazy"
+  },
+  {
+    "title": "Go Bananas",
+    "desc": "Go Bananas: To become irrational or crazy"
+  },
+  { "title": "Go Belly Up", "desc": "Go Belly Up: To go bankrupt" },
+  { "title": "Go Berserk", "desc": "Go Berserk: To go crazy" },
+  {
+    "title": "Go Bonkers",
+    "desc": "Go Bonkers: To be or become wild, restless, irrational, or crazy; to act in such a way"
+  },
+  {
+    "title": "Go Cold Turkey",
+    "desc": "Go Cold Turkey: Stop using an addictive substance suddenly, without tapering off"
+  },
+  {
+    "title": "Go Down in Flames",
+    "desc": "Go Down in Flames: Fail in a spectacular way"
+  },
+  {
+    "title": "Go Mental",
+    "desc": "Go Mental: To suddenly become extremely angry"
+  },
+  {
+    "title": "Go Nuclear",
+    "desc": "Go Nuclear: Use an extreme measure; because extremely angry"
+  },
+  { "title": "Go Nuts", "desc": "Go Nuts: To become crazy" },
+  {
+    "title": "Go Off Half-Cocked",
+    "desc": "Go Off Half-Cocked: To say or something prematurely, with a negative effect"
+  },
+  {
+    "title": "Go Off the Deep End",
+    "desc": "Go Off the Deep End: To unexpectedly become very angry, especially without a good reason"
+  },
+  {
+    "title": "Go Off The Rails",
+    "desc": "Go Off The Rails: To go wrong, to begin acting strangely or badly"
+  },
+  {
+    "title": "Go Out on a Limb",
+    "desc": "Go Out on a Limb: Assert something that may not be true; put oneself in a vulnerable position"
+  },
+  { "title": "Go Pear-Shaped", "desc": "Go Pear-Shaped: To fail; to go wrong" },
+  {
+    "title": "Go See a Man About a Dog",
+    "desc": "Go See a Man About a Dog: Go to the bathroom (said as a euphemism)"
+  },
+  {
+    "title": "Go to the Dogs",
+    "desc": "Go to the Dogs: To become disordered, to decay"
+  },
+  {
+    "title": "Go to the Mattresses",
+    "desc": "Go to the Mattresses: To go to into battle"
+  },
+  {
+    "title": "Go the Extra Mile",
+    "desc": "Go the Extra Mile: Put forth greater-than-expected effort"
+  },
+  {
+    "title": "Go Under the Knife",
+    "desc": "Go Under the Knife: Undergo surgery"
+  },
+  {
+    "title": "Go Viral",
+    "desc": "Go Viral: Begin To spread rapidly on the Internet"
+  },
+  {
+    "title": "Go with the Flow",
+    "desc": "Go with the Flow: To accept the way things naturally seem to be going"
+  },
+  {
+    "title": "Grab (Take) the Bull by the Horns",
+    "desc": "Grab (Take) the Bull by the Horns: To begin forthrightly to deal with a problem"
+  },
+  {
+    "title": "Grasp (Grab) at Straws",
+    "desc": "Grasp (Grab) at Straws: To take desperate actions with little hope of success"
+  },
+  {
+    "title": "Grease Monkey",
+    "desc": "Grease Monkey: A mechanic, especially an auto mechanic"
+  },
+  {
+    "title": "Grease the Wheels",
+    "desc": "Grease the Wheels: Do something to make an operation run smoothly"
+  },
+  {
+    "title": "Greasy Spoon",
+    "desc": "Greasy Spoon: An inexpensive restaurant that fries foods on a grill"
+  },
+  {
+    "title": "Green Around the Gills",
+    "desc": "Green Around the Gills: To look sick"
+  },
+  {
+    "title": "Green as Grass",
+    "desc": "Green as Grass: Lacking training, naive; often said of young people in new jobs"
+  },
+  {
+    "title": "Grind One’s Teeth",
+    "desc": "Grind One’s Teeth: Be very annoyed or angry about something without being able to say anything about it."
+  },
+  {
+    "title": "Guilty Pleasure",
+    "desc": "Guilty Pleasure: Enjoying something which is not generally held in high regard, while at the same time feeling a bit guilty about it, is called a guilty pleasure."
+  },
+  {
+    "title": "Guinea Pig",
+    "desc": "Guinea Pig: A test subject, a person who is used as a test to see if something will work"
+  },
+  {
+    "title": "Give and Take",
+    "desc": "Give and Take: Negotiations, the process of compromise"
+  },
+  {
+    "title": "Give ’em Hell (often excl.)",
+    "desc": "Give ’em Hell (often excl.): Express something passionately to a group"
+  },
+  {
+    "title": "Give Lip Service to",
+    "desc": "Give Lip Service to: Talk about supporting something without taking any concrete action"
+  },
+  {
+    "title": "Give Lip Service",
+    "desc": "Give Lip Service: to Talk about supporting something without taking any concrete action"
+  },
+  {
+    "title": "Give One’s Two Cents (That’s My Two Cents)",
+    "desc": "Give One’s Two Cents (That’s My Two Cents): Offer an opinion, suggest something"
+  },
+  {
+    "title": "Give Someone a Holler",
+    "desc": "Give Someone a Holler: Contact someone"
+  },
+  {
+    "title": "Give Someone a Piece of Your Mind:",
+    "desc": "Give Someone a Piece of Your Mind: Angrily tell someone what you think"
+  },
+  {
+    "title": "Give Someone a Run for Their Money",
+    "desc": "Give Someone a Run for Their Money: Compete effectively with the leader in a particular field"
+  },
+  {
+    "title": "Give Someone an Earful",
+    "desc": "Give Someone an Earful: angrily express an opinion to someone"
+  },
+  {
+    "title": "Give Someone the Cold Shoulder",
+    "desc": "Give Someone the Cold Shoulder: act hostile toward someone; to ignore, snub"
+  },
+  {
+    "title": "Give Someone The Old Heave-Ho",
+    "desc": "Give Someone The Old Heave-Ho: Fire someone, remove someone from a group or team"
+  },
+  {
+    "title": "Give Something a Whirl",
+    "desc": "Give Something a Whirl: Attempt something without being totally familiar with it"
+  },
+  {
+    "title": "Give the Green Light",
+    "desc": "Give the Green Light: Approve something; allow something to proceed"
+  },
+  {
+    "title": "Hail Mary (n. or adj.)",
+    "desc": "Hail Mary (n. or adj.): A desperate, last-ditch attempt"
+  },
+  {
+    "title": "Hair of the Dog (That Bit You)",
+    "desc": "Hair of the Dog (That Bit You): A small amount of the alcoholic beverage that caused your hangover"
+  },
+  {
+    "title": "Hands are Tied",
+    "desc": "Hands are Tied: You are prevented from doing something. It is not within your power"
+  },
+  { "title": "Hands Down", "desc": "Hands Down: Undoubtedly" },
+  {
+    "title": "Hang It Up",
+    "desc": "Hang It Up: To retire, to end an activity one has pursued for a long time"
+  },
+  { "title": "Hang Tough", "desc": "Hang Tough: Maintain one’s resolve" },
+  {
+    "title": "Hanging by a Thread",
+    "desc": "Hanging by a Thread: In great danger of elimination or failure"
+  },
+  {
+    "title": "Happy-Go-Lucky",
+    "desc": "Happy-Go-Lucky: If you are a happy-go-lucky person, you are cheerful and carefree all the time."
+  },
+  {
+    "title": "Hard Nut to Crack",
+    "desc": "Hard Nut to Crack: A difficult problem or a difficult person"
+  },
+  {
+    "title": "Has the Cat Got Your Tongue?",
+    "desc": "Has the Cat Got Your Tongue?: Why are you not saying anything?"
+  },
+  {
+    "title": "Hat Trick",
+    "desc": "Hat Trick: Scoring three goals in hockey or soccer (football), or accomplishing three of anything."
+  },
+  {
+    "title": "Hatchet Job",
+    "desc": "Hatchet Job: A strong attack on someone’s reputation; intentionally destructive criticism; calumny"
+  },
+  {
+    "title": "Haul Over the Coals",
+    "desc": "Haul Over the Coals: To scold someone severely"
+  },
+  {
+    "title": "Have (one’s) head in the clouds",
+    "desc": "Have (one’s) head in the clouds: Not know what is happening around you or out of touch with reality"
+  },
+  {
+    "title": "Have A Ball",
+    "desc": "Have A Ball: To have a very enjoyable time"
+  },
+  {
+    "title": "Have a Bone to Pick (with Someone)",
+    "desc": "Have a Bone to Pick (with Someone): To want to discuss something someone has done that has angered or annoyed you."
+  },
+  {
+    "title": "Have a Bone to Pick (with Someone)",
+    "desc": "Have a Bone to Pick (with Someone): To want to discuss something someone has done that has angered or annoyed you."
+  },
+  {
+    "title": "Have a Chip on One’s Shoulder",
+    "desc": "Have a Chip on One’s Shoulder: To harbor resentment; to have an angry attitude"
+  },
+  {
+    "title": "Have a Dog in the Hunt (Fight, Race)",
+    "desc": "Have a Dog in the Hunt (Fight, Race): To support a certain person in a competition"
+  },
+  {
+    "title": "Have a Lead Foot",
+    "desc": "Have a Lead Foot: A tendency to drive very fast"
+  },
+  {
+    "title": "Have a Lot on One’s Plate",
+    "desc": "Have a Lot on One’s Plate: Be busy, be in the middle of many ongoing tasks"
+  },
+  {
+    "title": "Have a Lot Riding On (Something)",
+    "desc": "Have a Lot Riding On (Something): Be depending on the successful outcome or development of something"
+  },
+  {
+    "title": "Have a Nose for (Something)",
+    "desc": "Have a Nose for (Something): To have natural ability at something, a talent for finding something"
+  },
+  {
+    "title": "Have a Screw Loose",
+    "desc": "Have a Screw Loose: Be slightly unbalanced or crazy"
+  },
+  {
+    "title": "Have a Tough Row to Hoe",
+    "desc": "Have a Tough Row to Hoe: Be faced with a task that is difficult because of unfavorable conditions"
+  },
+  {
+    "title": "Have A Whale of A Time",
+    "desc": "Have A Whale of A Time: To enjoy yourself very much"
+  },
+  {
+    "title": "Have an Ace Up One’s Sleeve",
+    "desc": "Have an Ace Up One’s Sleeve: To have a hidden advantage"
+  },
+  {
+    "title": "Have Bigger Fish to Fry",
+    "desc": "Have Bigger Fish to Fry: Have more important things to do"
+  },
+  {
+    "title": "Have Egg on Your Face",
+    "desc": "Have Egg on Your Face: They are made to look foolish or embarrassed"
+  },
+  {
+    "title": "Have Foot-in-Mouth Disease",
+    "desc": "Have Foot-in-Mouth Disease: To embarrass oneself through a silly mistake"
+  },
+  {
+    "title": "Have Hand of Aces/Hold All the Aces",
+    "desc": "Have Hand of Aces/Hold All the Aces: To be in a very strong position in a competition"
+  },
+  {
+    "title": "Have It Out with Someone",
+    "desc": "Have It Out with Someone: To have an argument with someone in order to settle a dispute"
+  },
+  {
+    "title": "Have One Foot in The Grave",
+    "desc": "Have One Foot in The Grave: To be near death (usually because of old age or illness)"
+  },
+  {
+    "title": "Have One Over the Eight",
+    "desc": "Have One Over the Eight: A person is slightly drunk."
+  },
+  {
+    "title": "Have One Too Many",
+    "desc": "Have One Too Many: Drink too much alcohol"
+  },
+  {
+    "title": "Have One’s Cake and Eat It, Too",
+    "desc": "Have One’s Cake and Eat It, Too: To want two incompatible things (usually used in the negative)"
+  },
+  {
+    "title": "Have Skin in the Game",
+    "desc": "Have Skin in the Game: Be risking something in an undertaking"
+  },
+  {
+    "title": "Have Something in the Bag",
+    "desc": "Have Something in the Bag: Be certain to win"
+  },
+  {
+    "title": "Have the Hots for (Somebody",
+    "desc": "Have the Hots for (Somebody): To be (sexually) attracted to somebody"
+  },
+  {
+    "title": "Have the Hots for Somebody",
+    "desc": "Have the Hots for Somebody: Finding somebody extremely attractive"
+  },
+  {
+    "title": "Have The Time of Your Life",
+    "desc": "Have The Time of Your Life: If you have the time of our life, you enjoy yourself very much."
+  },
+  {
+    "title": "Have the Time of Your Life",
+    "desc": "Have the Time of Your Life: To have a very fun, exciting, or enjoyable time"
+  },
+  {
+    "title": "Have Your Nose in the Air:",
+    "desc": "Have Your Nose in the Air: Have a snobbish or disdainful attitude"
+  },
+  {
+    "title": "Have Your Say",
+    "desc": "Have Your Say: Express your opinion on something"
+  },
+  {
+    "title": "Have Your Thumb Up Your Ass",
+    "desc": "Have Your Thumb Up Your Ass: Have nothing to do"
+  },
+  {
+    "title": "He Who Laughs Last Laughs Best",
+    "desc": "He Who Laughs Last Laughs Best: Being victorious is often a matter of simply surviving a conflict"
+  },
+  {
+    "title": "He Would Put Legs Under A Chicken",
+    "desc": "He Would Put Legs Under A Chicken: He will talk your head off; he is very talkative"
+  },
+  { "title": "Head (Go) South", "desc": "Head (Go) South: Decline, get worse" },
+  {
+    "title": "Head and Shoulders Above",
+    "desc": "Head and Shoulders Above: Far superior to"
+  },
+  {
+    "title": "Head and Shoulders",
+    "desc": "Head and Shoulders: Above Far superior to"
+  },
+  {
+    "title": "Head Start",
+    "desc": "Head Start: An advantage over everyone else"
+  },
+  {
+    "title": "Heads Up (excl.)",
+    "desc": "Heads Up (excl.): Get ready! Be prepared"
+  },
+  { "title": "Heads Up", "desc": "Heads Up!: Be careful!" },
+  {
+    "title": "Heads Will Roll (Are Going to Roll)",
+    "desc": "Heads Will Roll (Are Going to Roll): People will be fired"
+  },
+  {
+    "title": "Heads Will Roll (Are Going to Roll)",
+    "desc": "Heads Will Roll (Are Going to Roll): People will be fired"
+  },
+  {
+    "title": "Hear (Something) Through the Grapevine",
+    "desc": "Hear (Something) Through the Grapevine: To learn something via gossip"
+  },
+  {
+    "title": "Heart and Sou",
+    "desc": "Heart and Soul: With all one’s energy or affection"
+  },
+  { "title": "Heavens Open", "desc": "Heavens Open: Start to rain heavily" },
+  {
+    "title": "Heavy Hitter",
+    "desc": "Heavy Hitter: A powerful, influential person"
+  },
+  {
+    "title": "Helicopter Parenting",
+    "desc": "Helicopter Parenting: Overattentive child-raising"
+  },
+  {
+    "title": "Hell for Leather",
+    "desc": "Hell for Leather: Very fast, as fast as possible"
+  },
+  {
+    "title": "High as a Kite",
+    "desc": "High as a Kite: Strongly under the influence of drugs or intoxcants"
+  },
+  {
+    "title": "High as a Kite",
+    "desc": "High as a Kite: Strongly under the influence of drugs or intoxcants"
+  },
+  {
+    "title": "High as a Kite",
+    "desc": "High as a Kite: Strongly under the influence of drugs or intoxcants"
+  },
+  {
+    "title": "Hightail It (Out of There",
+    "desc": "Hightail It (Out of There): Flee"
+  },
+  {
+    "title": "Highways and Byways",
+    "desc": "Highways and Byways: You take large and small roads to visit every part of the country."
+  },
+  {
+    "title": "Hit a Wall",
+    "desc": "Hit a Wall: suddenly stop making forward progress"
+  },
+  {
+    "title": "Hit It Out of the Park",
+    "desc": "Hit It Out of the Park: Succeed brilliantly"
+  },
+  {
+    "title": "Hit the Books",
+    "desc": "Hit the Books: To study (generally said of students"
+  },
+  {
+    "title": "Hit the Ground Runnin",
+    "desc": "Hit the Ground Running: To begin a job or project with no learning or training period needed"
+  },
+  { "title": "Hit the Hay", "desc": "Hit the Hay: To go to bed" },
+  {
+    "title": "Hit the Jackpot",
+    "desc": "Hit the Jackpot: Do something that brings great success"
+  },
+  {
+    "title": "Hit the Nail on the Head",
+    "desc": "Hit the Nail on the Head: To be absolutely correct (said of an utterance)"
+  },
+  { "title": "Hit the Road", "desc": "Hit the Road: To leave" },
+  {
+    "title": "Hit the Roof",
+    "desc": "Hit the Roof: Explode in rage; become extremely angry"
+  },
+  { "title": "Hit the Roof", "desc": "Hit the Roof: To become very angry" },
+  { "title": "Hit the Sack", "desc": "Hit the Sack: To go to bed" },
+  {
+    "title": "Hit the Spot",
+    "desc": "Hit the Spot: Be very satisfying (said of something eaten)"
+  },
+  {
+    "title": "Hive Mind",
+    "desc": "Hive Mind: The knowledge of humans as a group"
+  },
+  {
+    "title": "Hobson’s Choice",
+    "desc": "Hobson’s Choice: A choice among bad options"
+  },
+  {
+    "title": "Hold One’s Liquor",
+    "desc": "Hold One’s Liquor: Be able to drink a large amount without being affected"
+  },
+  { "title": "Hold One’s Peace", "desc": "Hold One’s Peace: Be silent" },
+  {
+    "title": "Hold the Phone",
+    "desc": "Hold the Phone: Wait a moment (whether you’re on the phone or not)"
+  },
+  {
+    "title": "Hold the Phone",
+    "desc": "Hold the Phone: Wait a moment (whether you’re on the phone or not)"
+  },
+  {
+    "title": "Hold Your Horses(generally excl.)",
+    "desc": "Hold Your Horses (generally excl.): Stop; restrain yourself; don’t be so excited"
+  },
+  {
+    "title": "Home Away from Home",
+    "desc": "Home Away from Home: A habitual hangout; a place one frequents often and where one feels welcome"
+  },
+  {
+    "title": "Home Truths",
+    "desc": "Home Truths: Honest, often painful criticism"
+  },
+  {
+    "title": "Honor System",
+    "desc": "Honor System: A system of payments that relies on the honesty of those paying"
+  },
+  {
+    "title": "Hot Mess",
+    "desc": "Hot Mess: Something or someone in a state of extreme disorder"
+  },
+  {
+    "title": "Hot on the Heels (of)",
+    "desc": "Hot on the Heels (of): In close pursuit"
+  },
+  {
+    "title": "Hot on the Heels (of)",
+    "desc": "Hot on the Heels (of): In close pursuit"
+  },
+  {
+    "title": "Hot Potato",
+    "desc": "Hot Potato: A controversial subject or difficult project that is best avoided"
+  },
+  {
+    "title": "I Wouldn’t Put It Past (Someone)",
+    "desc": "I Wouldn’t Put It Past (Someone): I think it’s quite possible that [this person] would do this."
+  },
+  {
+    "title": "If It Had Been a Snake, It Would Have Bitten Me",
+    "desc": "If It Had Been a Snake, It Would Have Bitten Me: It was very obvious, but I missed it."
+  },
+  {
+    "title": "If the Shoe Fits, Wear It",
+    "desc": "If the Shoe Fits, Wear It: If this description of you is accurate, accept it."
+  },
+  {
+    "title": "I’m All Ears",
+    "desc": "I’m All Ears: You have my attention, so you should talk"
+  },
+  { "title": "In a Fog", "desc": "In a Fog: Confused, not mentally alert" },
+  {
+    "title": "In a Heartbeat",
+    "desc": "In a Heartbeat: Immediately. This is especially used in hypothetical situations"
+  },
+  {
+    "title": "In a Jam",
+    "desc": "In a Jam: In need of help, in a difficult spot"
+  },
+  {
+    "title": "In a New York Minute",
+    "desc": "In a New York Minute: Very quickly"
+  },
+  {
+    "title": "In a Nutshell",
+    "desc": "In a Nutshell: Expressed in a few words"
+  },
+  {
+    "title": "In a Pickle",
+    "desc": "In a Pickle: In need of help, in a difficult spot"
+  },
+  {
+    "title": "In a Rut",
+    "desc": "In a Rut: Confined by routine, bored and seeking new experiences"
+  },
+  {
+    "title": "In Broad Daylight",
+    "desc": "In Broad Daylight: When something occurs in broad daylight, it means the event is clearly visible"
+  },
+  {
+    "title": "In Clover",
+    "desc": "In Clover: Benefiting from a positive financial situation"
+  },
+  {
+    "title": "In For a Penny, In for a Pound",
+    "desc": "In For a Penny, In for a Pound: Committed to something even though the risks are increasing"
+  },
+  {
+    "title": "In Full Swing",
+    "desc": "In Full Swing: When something, such as an event, gets into full swing, it is at its busiest or liveliest time."
+  },
+  { "title": "In His Cups", "desc": "In His Cups: Drunk" },
+  {
+    "title": "In Hot Water",
+    "desc": "In Hot Water: In need of help; in trouble"
+  },
+  {
+    "title": "In One Fell Swoop",
+    "desc": "In One Fell Swoop: All at once, in a single action"
+  },
+  {
+    "title": "In One’s Element",
+    "desc": "In One’s Element: In a situation which is entirely suitable, familiar, or enjoyable."
+  },
+  {
+    "title": "In Someone’s Wheelhous",
+    "desc": "In Someone’s Wheelhouse: In someone’s strongest area of competence or enthusiasm"
+  },
+  { "title": "In Touch", "desc": "In Touch: In contact" },
+  {
+    "title": "In the Blink of an Eye",
+    "desc": "In the Blink of an Eye: Quickly, seemingly instantaneously"
+  },
+  { "title": "In the Cards", "desc": "In the Cards: Likely; likely to occur" },
+  {
+    "title": "In the Crosshairs(Cross Hairs)",
+    "desc": "In the Crosshairs (Cross Hairs): Targeted for blame or criticism"
+  },
+  { "title": "In the Dark", "desc": "In the Dark: Not informed" },
+  { "title": "In the Dark", "desc": "In the Dark: Unaware of something" },
+  {
+    "title": "In the Driver’s Sea",
+    "desc": "In the Driver’s Seat: In a dominant position, in control"
+  },
+  {
+    "title": "In the Hot Seat",
+    "desc": "In the Hot Seat: Undergoing criticism or scrutiny; under pressure publicly"
+  },
+  {
+    "title": "In the Interim",
+    "desc": "In the Interim: It denotes a period of time between something that ended and something that happened afterwards"
+  },
+  {
+    "title": "In the Limelight, In the Spotlight",
+    "desc": "In the Limelight, In the Spotlight: Receiving large amounts of publicity or attention"
+  },
+  {
+    "title": "In the Long Run",
+    "desc": "In the Long Run: Over an extended period of time"
+  },
+  {
+    "title": "In the Nick of Time",
+    "desc": "In the Nick of Time: Just in time; with no time to spare"
+  },
+  {
+    "title": "",
+    "desc": "In the opinion of the speaker, a person has just spent money unnecessarily and is, therefore, a fool."
+  },
+  {
+    "title": "In the Pipeline",
+    "desc": "In the Pipeline: Being prepared for the marketplace, being worked on"
+  },
+  {
+    "title": "In the Red",
+    "desc": "In the Red: Losing money; (of a market index) below a specified starting point"
+  },
+  {
+    "title": "In the Same Boat",
+    "desc": "In the Same Boat: In a similar situation; similarly vulnerable"
+  },
+  {
+    "title": "In the Toilet",
+    "desc": "In the Toilet: In disastrous condition"
+  },
+  {
+    "title": "In the Works",
+    "desc": "In the Works: Under development; coming soon"
+  },
+  {
+    "title": "Iron Out (Problems, Difficulties)",
+    "desc": "Iron Out (Problems, Difficulties): To resolve"
+  },
+  {
+    "title": "Is the Pope Catholic?",
+    "desc": "Is the Pope Catholic?: Isn’t the answer obvious?"
+  },
+  {
+    "title": "It Never Rains but It Pours",
+    "desc": "It Never Rains but It Pours: Bad luck and bad things tend to happen at the same time"
+  },
+  {
+    "title": "It Takes Two to Tango",
+    "desc": "It Takes Two to Tango: When something goes wrong involving two people, it’s likely that they share the blame; cooperation is necessary"
+  },
+  {
+    "title": "It Takes Two to Tango",
+    "desc": "It Takes Two to Tango: You say this when you think that a difficult situation or argument cannot be the fault of one person alone."
+  },
+  {
+    "title": "It Won’t Fly",
+    "desc": "It Won’t Fly: It won’t work; it won’t be approved."
+  },
+  {
+    "title": "Itchy Feet",
+    "desc": "Itchy Feet: A person who has itchy feet is someone who finds it difficult to stay in one place and likes to travel and discover new places."
+  },
+  {
+    "title": "It’s a Wash",
+    "desc": "It’s a Wash: A positive and a negative development cancel each other out, so the situation has neither improved nor gotten worse"
+  },
+  {
+    "title": "It’s All Greek to Me",
+    "desc": "It’s All Greek to Me: It is unintelligible, impossible to understand"
+  },
+  {
+    "title": "It’s No Skin off My (Your) Nose (Back)",
+    "desc": "It’s No Skin off My (Your) Nose (Back): The outcome will not affect me personally"
+  },
+  {
+    "title": "It’s Not Over Till the Fat Lady Sings",
+    "desc": "It’s Not Over Till the Fat Lady Sings: Do not give up too soon; things may improve."
+  },
+  {
+    "title": "It’s Not Rocket Science",
+    "desc": "It’s Not Rocket Science: It’s not difficult to understand."
+  },
+  {
+    "title": "I’ve Had It Up to Here",
+    "desc": "I’ve Had It Up to Here: My patience is almost exhausted."
+  },
+  {
+    "title": "Jack of All Trades",
+    "desc": "Jack of All Trades: A person with a wide variety of skills"
+  },
+  {
+    "title": "Jam Session",
+    "desc": "Jam Session: Playing improvised music in an informal setting"
+  },
+  {
+    "title": "Jim Crow",
+    "desc": "Jim Crow: The system of racial segregation in the American South prior to the American civil rights movement."
+  },
+  {
+    "title": "Join the Club (excl.)",
+    "desc": "Join the Club (excl.): I feel sympathy for you because I have experienced something similar."
+  },
+  {
+    "title": "Jump in with Both Feet",
+    "desc": "Jump in with Both Feet: Begin a new experience wholeheartedly"
+  },
+  {
+    "title": "Jump on the Bandwagon",
+    "desc": "Jump on the Bandwagon: To follow a trend or craze"
+  },
+  {
+    "title": "Jump on the Bandwagon",
+    "desc": "Jump on the Bandwagon: To follow a trend; follow the crowd"
+  },
+  {
+    "title": "Jump the Gun",
+    "desc": "Jump the Gun: Start doing something too soon"
+  },
+  {
+    "title": "Jump the Shark",
+    "desc": "Jump the Shark: To pass peak quality and begin to decline. Often used to describe television programs or movie series."
+  },
+  {
+    "title": "Jump the Track",
+    "desc": "Jump the Track: To shift suddenly from one activity or line of thought to another"
+  },
+  {
+    "title": "Jump Through Hoops",
+    "desc": "Jump Through Hoops: Complete a series of tasks in order to satisfy someone"
+  },
+  {
+    "title": "Just Around the Corner",
+    "desc": "Just Around the Corner: Occurring soon"
+  },
+  {
+    "title": "Just for the Record",
+    "desc": "Just for the Record: I would like to make it clear that …"
+  },
+  {
+    "title": "Just What the Doctor Ordered",
+    "desc": "Just What the Doctor Ordered: Exactly the thing that is or was needed to help improve something or make one feel better"
+  },
+  {
+    "title": "Kangaroo Court",
+    "desc": "Kangaroo Court: A court of law where proper procedures are not followed at all; a sham judicial proceeding"
+  },
+  {
+    "title": "Keep (Something) at Bay",
+    "desc": "Keep (Something) at Bay: Maintain a distance from something or someone"
+  },
+  {
+    "title": "Keep a Stiff Upper Lip",
+    "desc": "Keep a Stiff Upper Lip: Control one’s emotions; not give in to fear or grief"
+  },
+  {
+    "title": "Keep an Eye On",
+    "desc": "Keep an Eye On: To keep an eye on something or someone is to watch it periodically, to keep it under surveillance."
+  },
+  {
+    "title": "Keep an Eye Peeled",
+    "desc": "Keep an Eye Peeled: Be observant; watch out for something"
+  },
+  {
+    "title": "Keep It Under Your Hat",
+    "desc": "Keep It Under Your Hat: Don’t tell anyone; don’t reveal this secret"
+  },
+  {
+    "title": "Keep Someone at Arm’s Length",
+    "desc": "Keep Someone at Arm’s Length: Avoid close interaction or cooperation"
+  },
+  {
+    "title": "Keep Your Nose Clean",
+    "desc": "Keep Your Nose Clean: Avoid trouble or situations that compromise one’e honesty"
+  },
+  {
+    "title": "Keep Your Powder Dry",
+    "desc": "Keep Your Powder Dry: Do not attack until you are ready."
+  },
+  {
+    "title": "Keeping One’s Nose to the Grindstone",
+    "desc": "Keeping One’s Nose to the Grindstone: Working hard on something repetitive or tedious"
+  },
+  {
+    "title": "Kick Ass, Kick Butt",
+    "desc": "Kick Ass, Kick Butt: 1) Defeat badly; 2) be excellent or highly effective (only kick ass would be used for 2)"
+  },
+  { "title": "Kick the Bucket", "desc": "Kick the Bucket: To die" },
+  {
+    "title": "Kick the Can Down the Road",
+    "desc": "Kick the Can Down the Road: Postpone an important decision"
+  },
+  {
+    "title": "Kill a Fly With an Elephant Gun",
+    "desc": "Kill a Fly With an Elephant Gun: Approach a problem with excessive measures"
+  },
+  {
+    "title": "Kill Two Birds with One Stone",
+    "desc": "Kill Two Birds with One Stone: Act in such a way as to produce two desirable effects"
+  },
+  {
+    "title": "Kill Two Birds with One Stone",
+    "desc": "Kill Two Birds with One Stone: Solve two problems with one move"
+  },
+  {
+    "title": "Kill the Goose That Laid the Golden Egg",
+    "desc": "Kill the Goose That Laid the Golden Egg: To destroy a source of ongoing profits or benefits"
+  },
+  {
+    "title": "Kink in One’s Neck",
+    "desc": "Kink in One’s Neck: A cramp in one’s neck that causes pain"
+  },
+  {
+    "title": "King of the Hill",
+    "desc": "King of the Hill: At the top of one’s field; the most influential person in a given field or area"
+  },
+  {
+    "title": "Kiss and Make Up",
+    "desc": "Kiss and Make Up: Make peace after an argument"
+  },
+  { "title": "Kith and Kin", "desc": "Kith and Kin: Family (collectively)" },
+  {
+    "title": "Knock on Wood; Touch Wood",
+    "desc": "Knock on Wood; Touch Wood: Let’s hope I have good luck or continue to have good luck."
+  },
+  {
+    "title": "Knock Some Sense Into",
+    "desc": "Knock Some Sense Into: To beat someone in order to teach him/her a lesson. May be used figuratively."
+  },
+  {
+    "title": "Knock Someone’s Socks Off",
+    "desc": "Knock Someone’s Socks Off: Amaze someone"
+  },
+  {
+    "title": "Knock Up",
+    "desc": "Knock Up: To impregnate a woman. Often used in the form knocked up."
+  },
+  { "title": "Knockout", "desc": "Knockout: An extremely beautiful woman" },
+  {
+    "title": "Know (Something) Like the Back of One’s Hand",
+    "desc": "Know (Something) Like the Back of One’s Hand: To be very familiar with something, especially an area"
+  },
+  {
+    "title": "Larger Than Life",
+    "desc": "Larger Than Life: Conveying a sense of greatness, imposing"
+  },
+  {
+    "title": "Last But Not Least",
+    "desc": "Last But Not Least: What I have just said does not reflect a ranking in importance."
+  },
+  {
+    "title": "Laughter is the Best Medicine",
+    "desc": "Laughter is the Best Medicine: Laughing a lot is a very effective means of recovering from physical or mental injury"
+  },
+  {
+    "title": "Learn the Ropes",
+    "desc": "Learn the Ropes: Become more familiar with a job or field of endeavor; be trained"
+  },
+  {
+    "title": "Leave Someone in the Lurch",
+    "desc": "Leave Someone in the Lurch: Abandon someone in a difficult situation"
+  },
+  { "title": "Lend an Ea", "desc": "Lend an Ear: Listen" },
+  {
+    "title": "Let Bygones Be Bygones",
+    "desc": "Let Bygones Be Bygones: Agree to forget about a past conflict"
+  },
+  {
+    "title": "Let Bygones Be Bygones",
+    "desc": "Let Bygones Be Bygones: Agree to forget about a past conflict"
+  },
+  {
+    "title": "Let Off Steam",
+    "desc": "Let Off Steam: To express anger and frustration in a way that does no damage"
+  },
+  {
+    "title": "Let One’s Hair Down",
+    "desc": "Let One’s Hair Down: To relax and enjoy themselves."
+  },
+  {
+    "title": "Let Sleeping Dogs Lie",
+    "desc": "Let Sleeping Dogs Lie: To avoid stirring up a problem; to leave things alone"
+  },
+  {
+    "title": "Let the Cat Out of the Bag",
+    "desc": "Let the Cat Out of the Bag: Reveal a secret, usually a secret you or others are trying to keep"
+  },
+  {
+    "title": "Let the Genie Out of the Bottle",
+    "desc": "Let the Genie Out of the Bottle: Reveal something hitherto suppressed"
+  },
+  {
+    "title": "Letter of the Law",
+    "desc": "Letter of the Law: The explicit meaning of a law, as opposed to the spirit of the law, the law’s general intention"
+  },
+  {
+    "title": "Lick One’s Wounds",
+    "desc": "Lick One’s Wounds: Rest after a bad defeat"
+  },
+  {
+    "title": "Life is A Bowl of Cherries",
+    "desc": "Life is A Bowl of Cherries: Life is wonderful or very pleasant"
+  },
+  {
+    "title": "Light a Fire Under Someone",
+    "desc": "Light a Fire Under Someone: Inspire someone to work very hard"
+  },
+  {
+    "title": "Light at the End of the Tunnel",
+    "desc": "Light at the End of the Tunnel: A sign of hope after a long period of difficulties"
+  },
+  {
+    "title": "Like a Kid in a Candy Store",
+    "desc": "Like a Kid in a Candy Store: To be so excited about one’s surroundings that one acts in a childlike or silly way"
+  },
+  {
+    "title": "Like a Moth to a Flame",
+    "desc": "Like a Moth to a Flame: Drawn to something or someone despite the dangers"
+  },
+  {
+    "title": "Like Father, Like Son",
+    "desc": "Like Father, Like Son: Sons inherit their fathers’ traits and preferences, often even without realizing it."
+  },
+  {
+    "title": "Like Shooting",
+    "desc": "Like Shooting: Fish in a Barrel Very easy"
+  },
+  {
+    "title": "Like Taking Candy from a Baby",
+    "desc": "Like Taking Candy from a Baby: Very easy"
+  },
+  {
+    "title": "Like Two Peas in a Pod",
+    "desc": "Like Two Peas in a Pod: Bearing a strong resemblance"
+  },
+  {
+    "title": "Like The Cat That Got The Cream",
+    "desc": "Like The Cat That Got The Cream: Looking particularly self-satisfied, often to the annoyance of others"
+  },
+  {
+    "title": "Lion’s Den",
+    "desc": "Lion’s Den: Any dangerous or frightening place."
+  },
+  {
+    "title": "Lion’s Share",
+    "desc": "Lion’s Share: The largest part of something"
+  },
+  { "title": "Live Large", "desc": "Live Large: Have a luxurious lifestyle" },
+  {
+    "title": "Living in Cloud Cuckooland",
+    "desc": "Living in Cloud Cuckooland: Having unrealistic or foolish beliefs or plans."
+  },
+  {
+    "title": "Living on Borrowed Time",
+    "desc": "Living on Borrowed Time: Following an illness or near-death experience, may people believe they have cheated death"
+  },
+  {
+    "title": "Living Under a Rock",
+    "desc": "Living Under a Rock: Ignorant of important events. Usually used as a question: Have you been living under a rock?"
+  },
+  {
+    "title": "Loaded for Bear",
+    "desc": "Loaded for Bear: Prepared for problems, well prepared for a challenge"
+  },
+  {
+    "title": "Loan Shark",
+    "desc": "Loan Shark: A predatory lender; one who makes high-interest loans to desperate people"
+  },
+  {
+    "title": "Lock Horns",
+    "desc": "Lock Horns: To lock horns is to argue, to come into conflict."
+  },
+  {
+    "title": "Long Shot",
+    "desc": "Long Shot: Something with little chance of success"
+  },
+  {
+    "title": "Look the Other Way",
+    "desc": "Look the Other Way: Take no notice of violations of laws or rules, unofficially condone something"
+  },
+  {
+    "title": "Look What the Cat Dragged In",
+    "desc": "Look What the Cat Dragged In: Someone unwelcome has arrived."
+  },
+  {
+    "title": "Loose Cannon",
+    "desc": "Loose Cannon: Someone out of control; someone who speaks or acts recklessly"
+  },
+  {
+    "title": "Lose It",
+    "desc": "Lose It: To suddenly become unable to behave or think in a sensible way"
+  },
+  {
+    "title": "Lose One’s Touch",
+    "desc": "Lose One’s Touch: Suffer a decline in one’s skill at doing something"
+  },
+  { "title": "Lose Touch", "desc": "Lose Touch: To fall out of contact" },
+  {
+    "title": "Lose the Thread",
+    "desc": "Lose the Thread: Be unable to follow someone’s reasoning"
+  },
+  {
+    "title": "Love at First Sight",
+    "desc": "Love at First Sight: Falling in love with somebody the first time you see them"
+  },
+  {
+    "title": "Love Rat",
+    "desc": "Love Rat: Somebody who cheats on his/her partner"
+  },
+  {
+    "title": "Love Someone With All of One’s Heart And Soul",
+    "desc": "Love Someone With All of One’s Heart And Soul: To love someone completely"
+  },
+  {
+    "title": "Lower the Boom",
+    "desc": "Lower the Boom: Implement a punishment; reprimand severely"
+  },
+  {
+    "title": "Low-Hanging Fruit",
+    "desc": "Low-Hanging Fruit: Easy parts of a task; solutions easy to obtain"
+  },
+  {
+    "title": "Mad As A Box Of (Soapy) Frogs",
+    "desc": "Mad As A Box Of (Soapy) Frogs: extremely mentally unstable; psychotic; detached from reality."
+  },
+  {
+    "title": "Mad as A Hatter",
+    "desc": "Mad as A Hatter: Mentally ill, psychotic"
+  },
+  {
+    "title": "Main Squeeze",
+    "desc": "Main Squeeze: Committed romantic partner"
+  },
+  {
+    "title": "Make a Break for It",
+    "desc": "Make a Break for It: Try to escape, run off"
+  },
+  {
+    "title": "Make a Mountain out of a Molehill",
+    "desc": "Make a Mountain out of a Molehill: To take something too seriously; to make too much of something"
+  },
+  {
+    "title": "Make a Silk Purse out of a Sow’s Ear",
+    "desc": "Make a Silk Purse out of a Sow’s Ear: Turn something ordinary or inferior into something refined and beautiful"
+  },
+  {
+    "title": "Make Ends Meet",
+    "desc": "Make Ends Meet: Have enough money to cover basic expenses"
+  },
+  {
+    "title": "Make Hay (While the Sun Shines)",
+    "desc": "Make Hay (While the Sun Shines): To take advantage of an opportunity at the right time."
+  },
+  { "title": "Make Love", "desc": "Make Love: To have sexual intercourse" },
+  { "title": "Make Nice:", "desc": "Make Nice: Act cordial despite conflict" },
+  {
+    "title": "Make One’s Mark",
+    "desc": "Make One’s Mark: Attain influence or recognition"
+  },
+  {
+    "title": "Make Someone’s Day",
+    "desc": "Make Someone’s Day: Do something pleasing that puts someone in a good mood"
+  },
+  {
+    "title": "Make Waves",
+    "desc": "Make Waves: Cause controversy, disturb a calm group dynamic"
+  },
+  {
+    "title": "Man Cave",
+    "desc": "Man Cave: A part of the house, often the basement, that is left to the man of the household, perhaps with a workshop, a television for watching sports, etc."
+  },
+  {
+    "title": "March to the Beat of Your Own Drum",
+    "desc": "March to the Beat of Your Own Drum: When someone does things the way they want to, without taking anybody else or anything else into consideration."
+  },
+  {
+    "title": "Match Made in Heaven",
+    "desc": "Match Made in Heaven: A relationship in which the two people are great together, because they complement each other so well"
+  },
+  {
+    "title": "May-December(adj.)",
+    "desc": "May-December (adj.): Significantly different in age. Said of couples where one member is much older. The most common usage is May-December romance."
+  },
+  {
+    "title": "May-December Marriage",
+    "desc": "May-December Marriage: A marriage between a younger and an older partner, typically a young woman and an old man."
+  },
+  {
+    "title": "Me Time",
+    "desc": "Me Time: Activities undertaken for one’s own enjoyment, free from responsibilities to others."
+  },
+  {
+    "title": "Meeting of the Minds",
+    "desc": "Meeting of the Minds: Strong instinctive agreement on something"
+  },
+  {
+    "title": "Mend Fences",
+    "desc": "Mend Fences: Improve relations after a dispute"
+  },
+  {
+    "title": "Mind One’s P’s and Q’s",
+    "desc": "Mind One’s P’s and Q’s: Be attentive to details; be on one’s best behavior"
+  },
+  {
+    "title": "Miss the Boat",
+    "desc": "Miss the Boat: Be too late for something; miss an opportunity"
+  },
+  {
+    "title": "Monday Morning Quarterback",
+    "desc": "Monday Morning Quarterback: Someone who offers criticisms or comments after already knowing the outcome of something"
+  },
+  {
+    "title": "Month of Sundays",
+    "desc": "Month of Sundays: A long time, many months"
+  },
+  {
+    "title": "More Fun Than A Barrel of Monkeys",
+    "desc": "More Fun Than A Barrel of Monkeys: A very good time; a pleasant occasion"
+  },
+  { "title": "Mother Nature", "desc": "Mother Nature: The natural world" },
+  {
+    "title": "Move Heaven and Earth",
+    "desc": "Move Heaven and Earth: Take all possible steps in trying to accomplish something"
+  },
+  {
+    "title": "Move the Needle",
+    "desc": "Move the Needle: Have a measurable effect on something"
+  },
+  {
+    "title": "Move Up in the World",
+    "desc": "Move Up in the World: Become more successful"
+  },
+  {
+    "title": "Movers and Shakers",
+    "desc": "Movers and Shakers: Influential people, especially in a particular field"
+  },
+  {
+    "title": "Much Of A Muchness",
+    "desc": "Much Of A Muchness: Essentially equal, not significantly different (said of a choice)"
+  },
+  {
+    "title": "Mum’s the Word",
+    "desc": "Mum’s the Word: This is secret; don’t talk about this. Often used as an answer to a request not to talk about something."
+  },
+  {
+    "title": "Music to My Ears",
+    "desc": "Music to My Ears: Good to hear; welcome news"
+  },
+  {
+    "title": "Mutton Dressed Up as Lamb",
+    "desc": "Mutton Dressed Up as Lamb: A woman who dresses in a style appropriate to someone of a younger age"
+  },
+  {
+    "title": "My Dogs Are Barking",
+    "desc": "My Dogs Are Barking: My feet hurt."
+  },
+  {
+    "title": "My Old Man, My Old Lady",
+    "desc": "My Old Man, My Old Lady: My spouse"
+  },
+  {
+    "title": "My Way or the Highway",
+    "desc": "My Way or the Highway: If you do not do things the way I want or require, then you can just leave or not participate."
+  },
+  { "title": "Nail-Biter", "desc": "Nail-Biter: A suspenseful event" },
+  {
+    "title": "Nailing Jelly/Jello/Pudding To A Wall/Tree",
+    "desc": "Nailing Jelly/Jello/Pudding To A Wall/Tree: An impossible task"
+  },
+  {
+    "title": "Neck and Neck",
+    "desc": "Neck and Neck: Very close in a competition, with neither of two entities clearly in the lead"
+  },
+  {
+    "title": "Neck of the Woods",
+    "desc": "Neck of the Woods: A region, especially one’s home region"
+  },
+  {
+    "title": "Nest Egg",
+    "desc": "Nest Egg: Retirement savings; wealth saved for a future purpose"
+  },
+  {
+    "title": "Never in A Million Years",
+    "desc": "Never in A Million Years: Absolutely never"
+  },
+  {
+    "title": "Never Look a Gift Horse in the Mouth",
+    "desc": "Never Look a Gift Horse in the Mouth: It’s rude to examine a gift closely; accept gifts politely."
+  },
+  {
+    "title": "New Wrinkle",
+    "desc": "New Wrinkle: A novel aspect to a situation, a new development"
+  },
+  {
+    "title": "Nice Chunk of Change",
+    "desc": "Nice Chunk of Change: A large amount of money"
+  },
+  {
+    "title": "Nickel and Dime",
+    "desc": "Nickel and Dime: To negotiate over very small sums; to try to get a better financial deal, in a negative way"
+  },
+  {
+    "title": "Nine Times Out of Ten",
+    "desc": "Nine Times Out of Ten: Almost always"
+  },
+  {
+    "title": "Nine-to-Five Job",
+    "desc": "Nine-to-Five Job: A routine job in an office that involves standard office hours"
+  },
+  {
+    "title": "Nip (Something) In The Bud",
+    "desc": "Nip (Something) In The Bud: Deal with a problem before it becomes large"
+  },
+  {
+    "title": "No Holds Barred",
+    "desc": "No Holds Barred (usually adj., often hyphenated): Unrestricted, without rules"
+  },
+  {
+    "title": "No Love Lost Between",
+    "desc": "No Love Lost Between: There is a mutual animosity between two people"
+  },
+  {
+    "title": "No Names, No Pack Drill",
+    "desc": "No Names, No Pack Drill: By not accusing anyone specifically, I may avoid trouble."
+  },
+  {
+    "title": "No Names, No Pack Drill",
+    "desc": "No Names, No Pack Drill: If no one can be identified, no one will be punished."
+  },
+  {
+    "title": "No Rhyme or Reason (to)",
+    "desc": "No Rhyme or Reason (to): Without logic or pattern"
+  },
+  {
+    "title": "No Room to Swing A Cat",
+    "desc": "No Room to Swing A Cat: Very small, not big enough"
+  },
+  {
+    "title": "No Shit, Sherlock",
+    "desc": "No Shit, Sherlock: That’s very obvious!"
+  },
+  {
+    "title": "No Tree Grows to the Sky",
+    "desc": "No Tree Grows to the Sky: Growth cannot continue indefinitely."
+  },
+  {
+    "title": "Not Cut Out for(Something)",
+    "desc": "Not Cut Out for (Something): Not naturally skillful enough to do something well"
+  },
+  {
+    "title": "Not Enough Room to Swing a Cat",
+    "desc": "Not Enough Room to Swing a Cat: A very small space"
+  },
+  {
+    "title": "Not Give A Fig",
+    "desc": "Not Give A Fig: To not care at all about something"
+  },
+  {
+    "title": "Not Have A Cat In Hell’s Chance",
+    "desc": "Not Have A Cat In Hell’s Chance: Have no possibility of succeeding, coming to pass, or achieving something"
+  },
+  {
+    "title": "Not Have a Prayer",
+    "desc": "Not Have a Prayer: Have no chance of success"
+  },
+  { "title": "Not Know Jack", "desc": "Not Know Jack: Not know anything" },
+  {
+    "title": "Not Lift a Finger",
+    "desc": "Not Lift a Finger: Do nothing to help"
+  },
+  {
+    "title": "Not Mince Words",
+    "desc": "Not Mince Words: Moderate or weaken a statement"
+  },
+  {
+    "title": "Not One’s Cup of Tea",
+    "desc": "Not One’s Cup of Tea: Not something one is interested in"
+  },
+  {
+    "title": "Not Playing with A Full Deck",
+    "desc": "Not Playing with A Full Deck: Stupid, mentally deficient or impaired"
+  },
+  {
+    "title": "Not Ready for Prime Time",
+    "desc": "Not Ready for Prime Time: Not yet perfected; inexperienced"
+  },
+  {
+    "title": "Not Sit Well with (Someone)",
+    "desc": "Not Sit Well with (Someone): Be difficult to accept; make someone uncomfortable"
+  },
+  {
+    "title": "Nothing to Write Home About",
+    "desc": "Nothing to Write Home About: Unspectacular, ordinary"
+  },
+  {
+    "title": "Nuts and Bolts",
+    "desc": "Nuts and Bolts: Everyday details of something"
+  },
+  {
+    "title": "Nutty as a Fruitcake",
+    "desc": "Nutty as a Fruitcake: Crazy; idiotic; wacky."
+  },
+  { "title": "Pack Heat", "desc": "Pack Heat: Carry a gun" },
+  {
+    "title": "Paddle One’s Own Canoe",
+    "desc": "Paddle One’s Own Canoe: To be able to act independently."
+  },
+  {
+    "title": "Page-Turner",
+    "desc": "Page-Turner: A page-turner is an exciting book that’s easy to read, a book that’s difficult to put down."
+  },
+  { "title": "Pain in the Ass;", "desc": "Pain in the Ass; Pain in the Butt;" },
+  {
+    "title": "Pain in the Neck",
+    "desc": "Pain in the Neck: Someone or something making your life difficult"
+  },
+  {
+    "title": "Paint the Town Red",
+    "desc": "Paint the Town Red: Go out drinking and partying"
+  },
+  {
+    "title": "Par for the Course",
+    "desc": "Par for the Course: What would normally be expected. This has a negative connotation."
+  },
+  {
+    "title": "Pass the Buck",
+    "desc": "Pass the Buck: Transfer a problem to someone else"
+  },
+  {
+    "title": "Pass With Flying Colors",
+    "desc": "Pass With Flying Colors: To succeed brilliantly, as on an exam or other test"
+  },
+  {
+    "title": "Passing Fancy",
+    "desc": "Passing Fancy: A temporary interest or attraction"
+  },
+  {
+    "title": "Pay Through the Nose (For Something)",
+    "desc": "Pay Through the Nose (For Something): Pay a large amount of money"
+  },
+  {
+    "title": "Peaches and Cream",
+    "desc": "Peaches and Cream: A situation, process, etc., that has no trouble or problems"
+  },
+  {
+    "title": "Pecking Order",
+    "desc": "Pecking Order: Hierarchy, rank of importance"
+  },
+  {
+    "title": "Pencil Something In",
+    "desc": "Pencil Something In: Make tentative arrangements"
+  },
+  {
+    "title": "Penny-Pinching",
+    "desc": "Penny-Pinching: Frugal, avoiding expenses whenever possible"
+  },
+  {
+    "title": "Pep Talk",
+    "desc": "Pep Talk: An encouraging speech given to a person or group"
+  },
+  {
+    "title": "Perfect Storm",
+    "desc": "Perfect Storm: A rare combination of disastrous occurrences"
+  },
+  {
+    "title": "Pet Peeve",
+    "desc": "Pet Peeve: A small thing that you find particularly annoying"
+  },
+  {
+    "title": "Pick a Fight:",
+    "desc": "Pick a Fight: Intentionally provoke a conflict or fight with someone"
+  },
+  {
+    "title": "Pick Up the Slack",
+    "desc": "Pick Up the Slack: Do something that someone else is not doing; assume someone else’s responsibilities"
+  },
+  {
+    "title": "Pick Up the Tab",
+    "desc": "Pick Up the Tab: To pay a bill presented to a group, especially in a restaurant or bar"
+  },
+  {
+    "title": "Pie in the Sky",
+    "desc": "Pie in the Sky: Something that is unrealistic or that cannot be achieved"
+  },
+  { "title": "Piece of Cake", "desc": "Piece of Cake: Very easily done" },
+  {
+    "title": "Pin Someone Down",
+    "desc": "Pin Someone Down: Demand a decision or clear answer"
+  },
+  {
+    "title": "Pinch Pennies",
+    "desc": "Pinch Pennies: To be careful with money, to be thrify"
+  },
+  {
+    "title": "Pink Slip",
+    "desc": "Pink Slip: A layoff notice; loss of a job, typically because of layoffs"
+  },
+  {
+    "title": "Pipe Dream",
+    "desc": "Pipe Dream: An unrealistic hope, a fantasy"
+  },
+  {
+    "title": "Piping Hot",
+    "desc": "Piping Hot: Very hot (generally said of food)"
+  },
+  {
+    "title": "Pipped to the Post",
+    "desc": "Pipped to the Post: Defeated by a narrow margin"
+  },
+  {
+    "title": "Pissing Contest",
+    "desc": "Pissing Contest: A meaningless argument or competition, typically between males"
+  },
+  {
+    "title": "Play Ball",
+    "desc": "Play Ball: Cooperate, agree to participate"
+  },
+  {
+    "title": "Play Cat And Mouse",
+    "desc": "Play Cat And Mouse: Trying to trick someone into making a mistake so you can defeat them."
+  },
+  {
+    "title": "Play Hardball",
+    "desc": "Play Hardball: Adopt a tough negotiating position; act aggressively"
+  },
+  {
+    "title": "Play it by Ear",
+    "desc": "Play it by Ear: To play a piece of music without referencing sheet music or a recording"
+  },
+  {
+    "title": "Play It by Ear",
+    "desc": "Play It by Ear: To respond to circumstances instead of having a fixed plan"
+  },
+  {
+    "title": "Play the Percentages",
+    "desc": "Play the Percentages: Bet on or rely on what is most likely to happen"
+  },
+  {
+    "title": "Play the Ponies",
+    "desc": "Play the Ponies: Bet on horse racing."
+  },
+  {
+    "title": "Play With Fire",
+    "desc": "Play With Fire: Do something very risky"
+  },
+  {
+    "title": "Play Your Cards Right",
+    "desc": "Play Your Cards Right: Exploit a situation to your best advantage"
+  },
+  {
+    "title": "Point of No Return",
+    "desc": "Point of No Return: A place from which it is impossible to go back to the starting point"
+  },
+  {
+    "title": "Point the Finger At",
+    "desc": "Point the Finger At: Blame (someone)"
+  },
+  {
+    "title": "Point the Finger",
+    "desc": "Point the Finger: At Blame (someone)"
+  },
+  {
+    "title": "Poison Pill(n)",
+    "desc": "Poison Pill (n): A provision or feature added to a measure or an entity to make it less attractive, an undesirable add-on"
+  },
+  {
+    "title": "Poison Pill",
+    "desc": "Poison Pill: A provision or feature added to a measure or an entity to make it less attractive, an undesirable add-on"
+  },
+  { "title": "Pop One’s Clogs", "desc": "Pop One’s Clogs: To die" },
+  {
+    "title": "Pop One’s Cork",
+    "desc": "Pop One’s Cork: To release one’s anger; to blow one’s top"
+  },
+  { "title": "Pop the Question", "desc": "Pop the Question: Propose marriage" },
+  {
+    "title": "Pot Calling the Kettle Black",
+    "desc": "Pot Calling the Kettle Black: Accusing someone of something of which you are also guilty; being hypocritical"
+  },
+  {
+    "title": "Pour (Rub) Salt into (on) the Wound (an open wound)",
+    "desc": "Pour (Rub) Salt into (on) the Wound (an open wound): Worsen an insult or injury; make a bad situation worse for someone"
+  },
+  {
+    "title": "Powder Keg",
+    "desc": "Powder Keg: An explosive situation, a situation in which people are angry and ready to be violent"
+  },
+  {
+    "title": "Powder Keg",
+    "desc": "Powder Keg: An explosive situation, a situation in which people are angry and ready to be violent"
+  },
+  {
+    "title": "Powder One’s Nose",
+    "desc": "Powder One’s Nose: To use the restroom (lavatory). This is used by women"
+  },
+  {
+    "title": "Preach to the Choir, Preach to the Converted",
+    "desc": "Preach to the Choir, Preach to the Converted: To make an argument with which your listeners already agree"
+  },
+  {
+    "title": "Preaching to the Choir",
+    "desc": "Preaching to the Choir: Making arguments to those who already agree with you"
+  },
+  {
+    "title": "Pretty Penny",
+    "desc": "Pretty Penny: A lot of money; too much money (when referring to the cost of something)"
+  },
+  {
+    "title": "Price Yourself Out of the Market",
+    "desc": "Price Yourself Out of the Market: Try to sell goods or services at such a high price that nobody buys them."
+  },
+  {
+    "title": "Puddle Jumper",
+    "desc": "Puddle Jumper: A small airplane, used on short trips"
+  },
+  {
+    "title": "Pull Out All the Stops",
+    "desc": "Pull Out All the Stops: Do everything possible to accomplish something"
+  },
+  {
+    "title": "Pull Strings",
+    "desc": "Pull Strings: Use influence that’s based on personal connections"
+  },
+  {
+    "title": "Pull the Plug On",
+    "desc": "Pull the Plug On: Terminate (something)"
+  },
+  {
+    "title": "Pull Yourself Together",
+    "desc": "Pull Yourself Together: Control your emotions; recover from a strong emptional upset"
+  },
+  {
+    "title": "Puppies And Rainbows",
+    "desc": "Puppies And Rainbows: Perfect, ideal (usually used slightly sarcastically, in contrast with a less ideal situation)"
+  },
+  { "title": "Puppy Dog Eyes", "desc": "Puppy Dog Eyes: A begging look" },
+  {
+    "title": "Puppy Love",
+    "desc": "Puppy Love: Adolescent love or infatuation, especially one that is not expected to last"
+  },
+  {
+    "title": "Pure as the Driven Snow",
+    "desc": "Pure as the Driven Snow: To be innocent and chaste (frequently used ironically)"
+  },
+  {
+    "title": "Push the Envelope",
+    "desc": "Push the Envelope: Go beyond common ways of doing something, be innovative"
+  },
+  { "title": "Pushing Up Daisies", "desc": "Pushing Up Daisies: Dead" },
+  {
+    "title": "Pushing Up Daisies",
+    "desc": "Pushing Up Daisies: Dead and buried"
+  },
+  {
+    "title": "Put a Thumb on the Scale",
+    "desc": "Put a Thumb on the Scale: Try to influence a discussion in an unfair way, cheat"
+  },
+  {
+    "title": "Put Down Roots",
+    "desc": "Put Down Roots: Establish oneself in a place; settle"
+  },
+  {
+    "title": "Put in One’s Two Cents",
+    "desc": "Put in One’s Two Cents: Say your opinion"
+  },
+  {
+    "title": "Put Lipstick on a Pig",
+    "desc": "Put Lipstick on a Pig: Make cosmetic changes to something bad"
+  },
+  {
+    "title": "Put one’s Face On",
+    "desc": "Put one’s Face On: Apply cosmetics"
+  },
+  {
+    "title": "Put Out Feelers",
+    "desc": "Put Out Feelers: Make discreet, informal suggestions, ask around"
+  },
+  {
+    "title": "Put Someone on the Spot",
+    "desc": "Put Someone on the Spot: Force someone to answer a question or make a decision immediately"
+  },
+  {
+    "title": "Put That in Your Pipe and Smoke It",
+    "desc": "Put That in Your Pipe and Smoke It: Accept and consider what I’m saying, even if you don’t like it!"
+  },
+  {
+    "title": "Put the Best Face On (Something)",
+    "desc": "Put the Best Face On (Something): Emphasize the positive aspects of a bad situation"
+  },
+  {
+    "title": "Put the Brakes On",
+    "desc": "Put the Brakes On: Slow something down"
+  },
+  {
+    "title": "Put the Cart Before The Horse",
+    "desc": "Put the Cart Before The Horse: To do things in the wrong order"
+  },
+  {
+    "title": "Put the Cart Before the Horse",
+    "desc": "Put the Cart Before the Horse: To do things out of the proper order."
+  },
+  {
+    "title": "Put the Cat Among The Pigeons",
+    "desc": "Put the Cat Among The Pigeons: Say or do something that causes trouble or controversy"
+  },
+  {
+    "title": "Put the Genie Back in the Bottle",
+    "desc": "Put the Genie Back in the Bottle: Try to suppress something that has already been revealed or done"
+  },
+  {
+    "title": "Put the Pedal to the Metal",
+    "desc": "Put the Pedal to the Metal: Drive as fast as possible"
+  },
+  {
+    "title": "Put Up with (Something)",
+    "desc": "Put Up with (Something): Tolerate, accept"
+  },
+  {
+    "title": "Put Words Into Someone’s Mouth",
+    "desc": "Put Words Into Someone’s Mouth: Attributing an opinion to someone who has never stated that opinion"
+  },
+  {
+    "title": "Put Your Foot Down",
+    "desc": "Put Your Foot Down: Use your authority to stop negative behavior"
+  },
+  {
+    "title": "Put Your Foot In Your Mouth",
+    "desc": "Put Your Foot In Your Mouth: Say something that you immediately regret"
+  },
+  {
+    "title": "Put Your Money Where Your Mouth Is",
+    "desc": "Put Your Money Where Your Mouth Is: Back up your opinions with a financial commitment"
+  },
+  {
+    "title": "Quake In One’s Boots",
+    "desc": "Quake In One’s Boots: To be very frightened"
+  },
+  {
+    "title": "Quarter Past",
+    "desc": "Quarter Past: Fifteen minutes after the hour"
+  },
+  {
+    "title": "Quarter To/Of",
+    "desc": "Quarter To/Of: Fifteen minutes before the hour"
+  },
+  {
+    "title": "Queer the Pitch",
+    "desc": "Queer the Pitch: Interfere with someone’s plans; make something more difficult"
+  },
+  { "title": "Quick as a Flash", "desc": "Quick as a Flash: Very fast" },
+  {
+    "title": "Quick-and-Dirty",
+    "desc": "Quick-and-Dirty: Approximate, hastily done"
+  },
+  {
+    "title": "Quote Unquote",
+    "desc": "Quote Unquote: Ironically speaking; suggesting that if a phrase were written out, it would be in quotation marks to convey sarcasm"
+  },
+  {
+    "title": "Race Against Time",
+    "desc": "Race Against Time: To rush to meet a deadline, to be forced to do something very quickly"
+  },
+  { "title": "Rain Cats And Dogs", "desc": "Rain Cats And Dogs: Rain heavily" },
+  {
+    "title": "Rain Cats and Dogs:",
+    "desc": "Rain Cats and Dogs: Rain very heavily"
+  },
+  {
+    "title": "Rain on Someone’s Parade",
+    "desc": "Rain on Someone’s Parade: Spoil someone’s plans"
+  },
+  {
+    "title": "Raise (Someone’s) Hackles",
+    "desc": "Raise (Someone’s) Hackles: Make someone angry and defensive"
+  },
+  { "title": "Raise One’s Voice", "desc": "Raise One’s Voice: Talk loudly" },
+  {
+    "title": "Raise Red Flags",
+    "desc": "Raise Red Flags: Warn of trouble ahead"
+  },
+  {
+    "title": "Raise the Bar",
+    "desc": "Raise the Bar: Increase standards in a certain competition or area of endeavor"
+  },
+  {
+    "title": "Raise the Roof",
+    "desc": "Raise the Roof: Make a great deal of noise (said of a crowd)"
+  },
+  {
+    "title": "Rake (Someone) Over the Coals",
+    "desc": "Rake (Someone) Over the Coals: To scold someone severely"
+  },
+  {
+    "title": "Rake Over the Ashes",
+    "desc": "Rake Over the Ashes: Restart a settled argument; examine a failure"
+  },
+  {
+    "title": "Rake Someone Over the Coals",
+    "desc": "Rake Someone Over the Coals: Scold severely"
+  },
+  {
+    "title": "Rank and File",
+    "desc": "Rank and File: The ordinary members of an organization"
+  },
+  {
+    "title": "Read Between the Lines",
+    "desc": "Read Between the Lines: Perceive what is not explicitly stated"
+  },
+  {
+    "title": "Read the Tea Leaves",
+    "desc": "Read the Tea Leaves: Predict the future from small signs"
+  },
+  {
+    "title": "Rear Its Ugly Head (said of a problem or something unpleasant)",
+    "desc": "Rear Its Ugly Head (said of a problem or something unpleasant): Appear, be revealed"
+  },
+  {
+    "title": "Rearrange the Deck Chairs on the Titanic",
+    "desc": "Rearrange the Deck Chairs on the Titanic: Taking superficial actions while ignoring a much larger and perhaps fatal problem"
+  },
+  {
+    "title": "Red Flag",
+    "desc": "Red Flag: A warning; a sign of trouble ahead"
+  },
+  {
+    "title": "Red Herring",
+    "desc": "Red Herring: A misleading clue; something intended to mislead"
+  },
+  {
+    "title": "Red Meat",
+    "desc": "Red Meat: Political appeals designed to excite one’s core supporters; demagoguery"
+  },
+  {
+    "title": "Red Tape",
+    "desc": "Red Tape: Bureaucracy; difficult bureaucratic or governmental requirements"
+  },
+  {
+    "title": "Red-Light District",
+    "desc": "Red-Light District: A neighborhood with many houses of prostitution"
+  },
+  {
+    "title": "Reinvent the Wheel",
+    "desc": "Reinvent the Wheel: Devise a solution to a problem for which a solution already exists"
+  },
+  { "title": "Riding High", "desc": "Riding High: Enjoying success" },
+  { "title": "Right as Rain", "desc": "Right as Rain: Absolutely correct" },
+  {
+    "title": "Right Under (One’s) Nose",
+    "desc": "Right Under (One’s) Nose: In an obvious location, yet overlooked"
+  },
+  { "title": "Right-Hand Man", "desc": "Right-Hand Man: Chief assistant" },
+  { "title": "Right-Hand Man", "desc": "Right-Hand Man: Chief assistant" },
+  { "title": "Ring a Bell", "desc": "Ring a Bell: Sound familiar" },
+  {
+    "title": "Ring a Bell",
+    "desc": "Ring a Bell: When something seems familiar"
+  },
+  {
+    "title": "Rob Peter to Pay Paul",
+    "desc": "Rob Peter to Pay Paul: Pay off a debt with another loan; solve a problem in such a way that it leads to a new problem"
+  },
+  {
+    "title": "Rob the Cradle",
+    "desc": "Rob the Cradle: To be sexually or romantically involved with someone who is very young"
+  },
+  {
+    "title": "Rob the Cradle",
+    "desc": "Rob the Cradle: To be sexually or romantically involved with someone who is very young"
+  },
+  { "title": "Rock Bottom", "desc": "Rock Bottom: An absolute low point" },
+  {
+    "title": "Rock the Boat",
+    "desc": "Rock the Boat: Cause a disruption in a group. Often used in the negative: don’t rock the boat."
+  },
+  { "title": "Roll the Dice On", "desc": "Roll the Dice On: Take a risk" },
+  {
+    "title": "Roll With the Punches",
+    "desc": "Roll With the Punches: Deal with problems by being flexible"
+  },
+  {
+    "title": "Rome Wasn’t Built in a Day",
+    "desc": "Rome Wasn’t Built in a Day: Complex projects take time"
+  },
+  {
+    "title": "Rookie Mistake",
+    "desc": "Rookie Mistake: An error made by an inexperienced person"
+  },
+  {
+    "title": "Rotten to the Core",
+    "desc": "Rotten to the Core: Entirely evil"
+  },
+  {
+    "title": "Rub (Something) in Someone’s Face",
+    "desc": "Rub (Something) in Someone’s Face: Humiliate someone by repeating and criticizing his or her mistake"
+  },
+  {
+    "title": "Rub It In",
+    "desc": "Rub It In: Say something that makes someone feel even worse about a mistake"
+  },
+  {
+    "title": "Rub Someone’s Nose in (Something)",
+    "desc": "Rub Someone’s Nose in (Something): Humiliate someone by repeating and criticizing his or her mistake"
+  },
+  {
+    "title": "Rubber-Stamp",
+    "desc": "Rubber-Stamp (v.): Approve something without consideration, as a formality"
+  },
+  {
+    "title": "Rule of Thumb",
+    "desc": "Rule of Thumb: A general principle or guideline, not a specific formula"
+  },
+  {
+    "title": "Run a Tight Ship",
+    "desc": "Run a Tight Ship: Manage an organization in a strict, well-regulated way"
+  },
+  {
+    "title": "Run in the Family",
+    "desc": "Run in the Family: Be inherited (as a trait) by multiple members of a family"
+  },
+  {
+    "title": "Run in the Family",
+    "desc": "Run in the Family: To be a common family characteristic"
+  },
+  {
+    "title": "Run into a Buzz",
+    "desc": "Run into a Buzz: Saw Encounter severe and unexpected problems"
+  },
+  {
+    "title": "Run into a Buzz",
+    "desc": "Run into a Buzz: Saw Encounter severe and unexpected problems"
+  },
+  {
+    "title": "Run off at the Mouth",
+    "desc": "Run off at the Mouth: Talk a lot about unimportant things, talk incoherently"
+  },
+  {
+    "title": "Run on Fumes",
+    "desc": "Run on Fumes: To be in a situation where one’s energy or resources is almost exhausted"
+  },
+  {
+    "title": "Run Out of Steam",
+    "desc": "Run Out of Steam: Lose momentum, become tired"
+  },
+  {
+    "title": "Run the Table",
+    "desc": "Run the Table: Win every game or contest"
+  },
+  {
+    "title": "Sacred Cow",
+    "desc": "Sacred Cow: An indvidual or organization that one cannot criticize"
+  },
+  {
+    "title": "Saving Grace",
+    "desc": "Saving Grace: Something that redeems a bad situation"
+  },
+  {
+    "title": "Scare the Living Daylights Out of Someone",
+    "desc": "Scare the Living Daylights Out of Someone: Frighten someone severely"
+  },
+  {
+    "title": "Scorched Earth(Tactics, Policy, etc.)",
+    "desc": "Scorched Earth (Tactics, Policy, etc.): Ruthless, extremely destructive"
+  },
+  {
+    "title": "Screw The Pooch",
+    "desc": "Screw The Pooch: To make a serious error"
+  },
+  {
+    "title": "School Of Hard Knocks",
+    "desc": "School Of Hard Knocks: Difficult real-life experiences from which one has learned"
+  },
+  {
+    "title": "Second Banana",
+    "desc": "Second Banana: A person in a subservient position"
+  },
+  {
+    "title": "Second Stringer",
+    "desc": "Second Stringer: A substitute player in a sport; a substitute for a job who is not the most talented person"
+  },
+  { "title": "Second Wind", "desc": "Second Wind: Renewed energy" },
+  { "title": "See Eye to Eye", "desc": "See Eye to Eye: To concur, agree" },
+  {
+    "title": "See Something Out of the Corner of Your Eye",
+    "desc": "See Something Out of the Corner of Your Eye: Use peripheral vision"
+  },
+  {
+    "title": "Seize (Take) the Bull By the Horns",
+    "desc": "Seize (Take) the Bull By the Horns: Attack a problem directly"
+  },
+  { "title": "Seize the Day", "desc": "Seize the Day: Take an opportunity" },
+  {
+    "title": "Sell (Someone) a Bill of Goods",
+    "desc": "Sell (Someone) a Bill of Goods: Trick someone; be deceptive"
+  },
+  {
+    "title": "Sell Like Hotcakes",
+    "desc": "Sell Like Hotcakes: Be sold very quickly"
+  },
+  {
+    "title": "Selling Point",
+    "desc": "Selling Point: An attractive feature of something for sale"
+  },
+  { "title": "Set in Stone", "desc": "Set in Stone: Fixed; unchangeable" },
+  {
+    "title": "Set something to Music",
+    "desc": "Set something to Music: To write a piece of music to accompany a set of words"
+  },
+  {
+    "title": "Set the Bar (Too) High",
+    "desc": "Set the Bar (Too) High: To set a high standard for something"
+  },
+  {
+    "title": "Set the Thames on Fir",
+    "desc": "Set the Thames on Fire: Do something amazing. Usually used in the negative."
+  },
+  {
+    "title": "Set the World on Fire",
+    "desc": "Set the World on Fire: Do something amazing; have a brilliant stretch in one’s career"
+  },
+  {
+    "title": "Shake the Dust off Your Shoes (Feet)",
+    "desc": "Shake the Dust off Your Shoes (Feet): Make a clean break with a relationship or situation"
+  },
+  {
+    "title": "Shape Up or Ship Out",
+    "desc": "Shape Up or Ship Out: Behave properly or leave the organization"
+  },
+  { "title": "Sharp as A Tack", "desc": "Sharp as A Tack: Mentally agile" },
+  {
+    "title": "Shell Game",
+    "desc": "Shell Game: A method of deception in which you conceal your actions by moving something frequently"
+  },
+  {
+    "title": "Shift Gears",
+    "desc": "Shift Gears: Change the subject, or change what one is doing"
+  },
+  {
+    "title": "Shipshape And Bristol Fashion",
+    "desc": "Shipshape And Bristol Fashion: Tidy, clean"
+  },
+  { "title": "Shit a Brick", "desc": "Shit a Brick: Be extremely fearful." },
+  {
+    "title": "Shoot from the Hip",
+    "desc": "Shoot from the Hip: Talk or act without consideration"
+  },
+  {
+    "title": "Shoot Off One’s Mouth",
+    "desc": "Shoot Off One’s Mouth: Talk without considering one’s words"
+  },
+  {
+    "title": "Shoot Oneself In The Foot",
+    "desc": "Shoot Oneself In The Foot: Do something that damages oneself or one’s own cause"
+  },
+  {
+    "title": "Short Fuse",
+    "desc": "Short Fuse: A quick temper; a tendency to anger quickly"
+  },
+  {
+    "title": "Shot Across the Bow",
+    "desc": "Shot Across the Bow: A warning of more serious actions to come"
+  },
+  {
+    "title": "Shoulder A Weight Off Your Shoulders",
+    "desc": "Shoulder A Weight Off Your Shoulders: You no longer worry about something or deal with something difficult"
+  },
+  {
+    "title": "Show Me an X And I’ll Show You a Y",
+    "desc": "Show Me an X And I’ll Show You a Y: There is a consequence to X that you may not have thought of."
+  },
+  {
+    "title": "Show One’s True Colors",
+    "desc": "Show One’s True Colors: Reveal one’s true nature"
+  },
+  {
+    "title": "Show Your Cards",
+    "desc": "Show Your Cards: Reveal your resources or plans"
+  },
+  {
+    "title": "Sick and Tired of",
+    "desc": "Sick and Tired of: Extremely annoyed by something that occurs repeatedly"
+  },
+  { "title": "Sick as a Dog", "desc": "Sick as a Dog: Extremely ill." },
+  {
+    "title": "Sick as a Parrot",
+    "desc": "Sick as a Parrot: Very disappointed"
+  },
+  {
+    "title": "Sight for Sore Eyes",
+    "desc": "Sight for Sore Eyes: A sight that makes you happy"
+  },
+  {
+    "title": "Silver Bullet",
+    "desc": "Silver Bullet: Something simple that resolves a difficult problem"
+  },
+  {
+    "title": "Simmer Down",
+    "desc": "Simmer Down: Become less angry; regain one’s composure"
+  },
+  { "title": "Sink or Swim", "desc": "Sink or Swim: Fail or succeed" },
+  {
+    "title": "Sing a Different Tune",
+    "desc": "Sing a Different Tune: Change your opinion"
+  },
+  {
+    "title": "Sit On (Something",
+    "desc": "Sit On (Something): Delay revealing or acting on something"
+  },
+  { "title": "Sit Tight", "desc": "Sit Tight: Wait and do not go anywhere" },
+  {
+    "title": "Sitting Duck",
+    "desc": "Sitting Duck: Something or someone easily attacked or criticized"
+  },
+  {
+    "title": "Sitting Pretty",
+    "desc": "Sitting Pretty: In a favorable situation"
+  },
+  { "title": "Six Feet Under", "desc": "Six Feet Under: Dead and buried" },
+  { "title": "Six Feet Under", "desc": "Six Feet Under: Dead and buried" },
+  {
+    "title": "Six of One, a Half Dozen of the Other",
+    "desc": "Six of One, a Half Dozen of the Other: The two choices have no significant differences."
+  },
+  {
+    "title": "Six Ways to (from) Sunday",
+    "desc": "Six Ways to (from) Sunday: In every possible way"
+  },
+  {
+    "title": "Slam Dunk",
+    "desc": "Slam Dunk: An effort that is certain to succeed"
+  },
+  {
+    "title": "Sleep Like a Baby",
+    "desc": "Sleep Like a Baby: To experience a very deep and restful sleep; to sleep soundly"
+  },
+  {
+    "title": "Sleep with the Fishes",
+    "desc": "Sleep with the Fishes: Dead, often by murder"
+  },
+  {
+    "title": "Slip Someone a Mickey",
+    "desc": "Slip Someone a Mickey: Add a drug to an alcoholic drink in order to knock someone out"
+  },
+  {
+    "title": "Slippery Slope",
+    "desc": "Slippery Slope: A series of undesirable effects that, one warns, could result from a certain action"
+  },
+  {
+    "title": "Slower than Molasses",
+    "desc": "Slower than Molasses: Exceptionally slow or sluggish; not fast at all."
+  },
+  { "title": "Small Beer", "desc": "Small Beer: Unimportant, insignificant" },
+  {
+    "title": "Small Fry",
+    "desc": "Small Fry: People or organizations with little influence; children"
+  },
+  {
+    "title": "Small Potatoes",
+    "desc": "Small Potatoes: Unimportant, insignificant"
+  },
+  { "title": "Smell a Rat", "desc": "Smell a Rat: Suspect deception" },
+  {
+    "title": "Smoking Gun",
+    "desc": "Smoking Gun: indisputable evidence of a crime"
+  },
+  { "title": "Snafu", "desc": "Snafu: A malfunction; a chaotic situation" },
+  {
+    "title": "Snake Oil",
+    "desc": "Snake Oil: A useless medicine; a quack remedy; a product or measure promoted as a solution that really does nothing to help"
+  },
+  {
+    "title": "Snake Oil",
+    "desc": "Snake Oil: Medicine of unproven value; fraudulent medicine"
+  },
+  {
+    "title": "Sneak Peek",
+    "desc": "Sneak Peek: A sneak peek is an opportunity to view something in advance of its official opening or debut"
+  },
+  { "title": "Soak Up the Sun", "desc": "Soak Up the Sun: To enjoy the sun" },
+  {
+    "title": "Sold On (Something)",
+    "desc": "Sold On (Something): Convinced of something"
+  },
+  {
+    "title": "Some Eggs",
+    "desc": "Some Eggs: Achieving a major goal requires the ability to tolerate some problems"
+  },
+  {
+    "title": "Someone’s Fingerprints Are All Over (Something)",
+    "desc": "Someone’s Fingerprints Are All Over (Something): Someone’s influence is evident"
+  },
+  {
+    "title": "Something to Crow",
+    "desc": "Something to Crow: About Something to be proud of, an accomplishment about which one is justified in bragging"
+  },
+  {
+    "title": "Son of a Gun",
+    "desc": "Son of a Gun: 1) A rogue. 2) An exclamation of surprise."
+  },
+  {
+    "title": "Sore Point",
+    "desc": "Sore Point: A sensitive topic for a particular person"
+  },
+  {
+    "title": "Sour Grapes",
+    "desc": "Sour Grapes: Disparagement of something that has proven unattainable"
+  },
+  {
+    "title": "Sour Grapes",
+    "desc": "Sour Grapes: Spiteful disparagment of a goal one has failed to achieve"
+  },
+  {
+    "title": "Spare The Rod And Spoil The Child",
+    "desc": "Spare The Rod And Spoil The Child: It is necessary to physically punish children in order to raise them right."
+  },
+  {
+    "title": "Speak of the Devil (and He Shall Appear)",
+    "desc": "Speak of the Devil (and He Shall Appear): The person we have just been talking about has entered."
+  },
+  {
+    "title": "Speak with A Plum in (one’s) Mouth",
+    "desc": "Speak with A Plum in (one’s) Mouth: To speak in a manner that is indicative of a high social class."
+  },
+  { "title": "Spick and Span", "desc": "Spick and Span: Clean and neat" },
+  { "title": "Spill the Beans", "desc": "Spill the Beans: Reveal a secret" },
+  { "title": "Spin A Yarn", "desc": "Spin A Yarn: Tell a story" },
+  {
+    "title": "Spin One’s Wheels",
+    "desc": "Spin One’s Wheels: Engaging in activity that yields no progress; getting nowhere"
+  },
+  {
+    "title": "Spit into The Wind",
+    "desc": "Spit into The Wind: Wasting time on something futile"
+  },
+  {
+    "title": "Spoiling for a Fight",
+    "desc": "Spoiling for a Fight: Combative, wanting conflict, eager to argue or fight"
+  },
+  {
+    "title": "Spoiling for a Fight",
+    "desc": "Spoiling for a Fight: Combative, wanting conflict, eager to argue or fight"
+  },
+  {
+    "title": "Square the Circle",
+    "desc": "Square the Circle: Attempt an impossible task"
+  },
+  {
+    "title": "Stab Someone in the Back",
+    "desc": "Stab Someone in the Back: To betray (somebody)"
+  },
+  {
+    "title": "Stalking Horse",
+    "desc": "Stalking Horse: Someone who tests a concept in advance of its application; a candidate who enters a political race in order to test the strength of the incumbent"
+  },
+  {
+    "title": "Stand (Someone) In Good Stead",
+    "desc": "Stand (Someone) In Good Stead: Be useful in the future"
+  },
+  {
+    "title": "Stand On One’s Own Two Feet",
+    "desc": "Stand On One’s Own Two Feet: To be independent and self-sufficient"
+  },
+  {
+    "title": "Stand One’s Ground",
+    "desc": "Stand One’s Ground: Refuse to back down; insist on one’s position"
+  },
+  {
+    "title": "Start with a Clean Slate",
+    "desc": "Start with a Clean Slate: To start (something) again with a fresh beginning; to work on a problem without thinking about what has been done before"
+  },
+  {
+    "title": "Steal Someone’s Thunder",
+    "desc": "Steal Someone’s Thunder: Upstage someone"
+  },
+  {
+    "title": "Stem the Tide",
+    "desc": "Stem the Tide: To stop or control the growth of something, usually something unpleasant."
+  },
+  {
+    "title": "Step Up One’s Game",
+    "desc": "Step Up One’s Game: Work to advance to a higher level of a competition"
+  },
+  {
+    "title": "Step Up to the Plate",
+    "desc": "Step Up to the Plate: Prepare to take action, be the person in a group who takes action"
+  },
+  {
+    "title": "Stick It to the Man",
+    "desc": "Stick It to the Man: Do something that frustrates those in authority"
+  },
+  {
+    "title": "Stick Your Nose into Something",
+    "desc": "Stick Your Nose into Something: Intrude into something that is not your affair"
+  },
+  {
+    "title": "Sticker Shock",
+    "desc": "Sticker Shock: Surprise at the high price of something"
+  },
+  {
+    "title": "Stick-in-the-Mud",
+    "desc": "Stick-in-the-Mud: A person who dislikes or adapts slowly to new ideas"
+  },
+  {
+    "title": "Sticky Wicket",
+    "desc": "Sticky Wicket: A difficult, tricky situation"
+  },
+  {
+    "title": "Stiff-Necked",
+    "desc": "Stiff-Necked: Stubborn; excessively formal"
+  },
+  {
+    "title": "Storm in a Teacup",
+    "desc": "Storm in a Teacup: A commotion that dies down quickly, about something unimportant"
+  },
+  {
+    "title": "Stormy Relationship",
+    "desc": "Stormy Relationship: Relationship that has a lot arguments and disagreement"
+  },
+  {
+    "title": "Stumbling Block",
+    "desc": "Stumbling Block: An obstacle, physical or abstract"
+  },
+  {
+    "title": "Straight Arrow",
+    "desc": "Straight Arrow: An honest, trustworthy person"
+  },
+  {
+    "title": "Strain at a Gnat and Swallow a Camel",
+    "desc": "Strain at a Gnat and Swallow a Camel: To make a fuss over something unimportant while ignoring larger issues"
+  },
+  {
+    "title": "Strike A Chord",
+    "desc": "Strike A Chord: Used to describe something that is familiar to you, reminds you of something or is connected to you somehow."
+  },
+  {
+    "title": "Sugar Daddy",
+    "desc": "Sugar Daddy: A rich man who is generous with younger women in return for sexual favors"
+  },
+  { "title": "Sure-Fire", "desc": "Sure-Fire: Certain to occur" },
+  { "title": "Swan Song", "desc": "Swan Song: A final appearance" },
+  {
+    "title": "Swan Song",
+    "desc": "Swan Song: This expression is used to describe a final act before dying or ending something."
+  },
+  {
+    "title": "Sweep Under the Carpet",
+    "desc": "Sweep Under the Carpet: Attempt to temporarily conceal a problem or error"
+  },
+  {
+    "title": "Sweep Under the Rug",
+    "desc": "Sweep Under the Rug: Attempt to temporarily conceal a problem or error"
+  },
+  { "title": "Sweet Dreams!", "desc": "Sweet Dreams!: Sleep well!" },
+  {
+    "title": "Sweeten the Deal",
+    "desc": "Sweeten the Deal: Add something to an offer during a negotiation"
+  },
+  {
+    "title": "Sweeten the Pot",
+    "desc": "Sweeten the Pot: Increase the amount of winnings potentially available in a game of chance, especially poker"
+  },
+  {
+    "title": "Swim Against the Tide",
+    "desc": "Swim Against the Tide: Do something contrary to a trend or usual opinion"
+  },
+  {
+    "title": "Swim with Sharks",
+    "desc": "Swim with Sharks: To take a major risk"
+  },
+  {
+    "title": "Swim with the Fishes",
+    "desc": "Swim with the Fishes: Have been killed, especially with involvement of organized crime"
+  },
+  {
+    "title": "Swing for the Fences",
+    "desc": "Swing for the Fences: Attempt to achieve the largest accomplishment possible"
+  },
+  {
+    "title": "Swing for the Fences",
+    "desc": "Swing for the Fences: Attempt to achieve the largest accomplishment possible"
+  },
+  {
+    "title": "Sword of Damocles",
+    "desc": "Sword of Damocles: Something that causes a feeling of constant threat."
+  },
+  {
+    "title": "Take (Someone) to the Cleaners",
+    "desc": "Take (Someone) to the Cleaners: 1) Swindle; 2) defeat badly"
+  },
+  {
+    "title": "Take a Deep Dive (Into)",
+    "desc": "Take a Deep Dive (Into): Explore something extensively"
+  },
+  {
+    "title": "Take a Flyer",
+    "desc": "Take a Flyer: To take a rise; especially to make a speculative investment"
+  },
+  {
+    "title": "Take a Gander",
+    "desc": "Take a Gander: Go to take a look at something"
+  },
+  { "title": "Take a Hike", "desc": "Take a Hike: Go away" },
+  {
+    "title": "Take A Powder:",
+    "desc": "Take A Powder: To leave, especially in order to avoid a difficult situation"
+  },
+  {
+    "title": "Take a Rain Check",
+    "desc": "Take a Rain Check: Decline an invitation but suggest that you’ll accept it at a later time."
+  },
+  {
+    "title": "Take Five (Ten)",
+    "desc": "Take Five (Ten): Take a short break of five (ten) minutes"
+  },
+  {
+    "title": "Take Five",
+    "desc": "Take Five: To take one brief (about five minutes) rest period"
+  },
+  {
+    "title": "Take It Easy",
+    "desc": "Take It Easy: 1) Relax, rest; 2) (as a command) Calm down!"
+  },
+  {
+    "title": "Take It Easy",
+    "desc": "Take It Easy: Don’t hurry; relax; don’t get angry"
+  },
+  {
+    "title": "Take It Easy",
+    "desc": "Take It Easy: When you relax, or do things at a comfortable pace, you take it easy."
+  },
+  {
+    "title": "Take It on The Chin",
+    "desc": "Take It on The Chin: Be attacked; suffer an attack"
+  },
+  {
+    "title": "Take It or Leave It",
+    "desc": "Take It or Leave It (command): You must decide now whether you will accept this proposal"
+  },
+  {
+    "title": "Take Someone to Task",
+    "desc": "Take Someone to Task: Reprimand someone strongly"
+  },
+  {
+    "title": "Take Something with a Pinch (grain) of Salt",
+    "desc": "Take Something with a Pinch (grain) of Salt: If you take what someone says with a pinch of salt, you do not completely believe it."
+  },
+  {
+    "title": "Take the Cake",
+    "desc": "Take the Cake: Be the most extreme instance"
+  },
+  {
+    "title": "Take the Edge Off (of Something",
+    "desc": "Take the Edge Off (of Something): To slightly improve something negative"
+  },
+  {
+    "title": "Take the Fifth",
+    "desc": "Take the Fifth: Refuse to answer because answering might incriminate or cause problems for you"
+  },
+  {
+    "title": "Take the Gloves Off",
+    "desc": "Take the Gloves Off: Negotiate in a more aggressive way"
+  },
+  {
+    "title": "Take the High Road",
+    "desc": "Take the High Road: Refuse to descend to immoral activities or personal attacks"
+  },
+  {
+    "title": "Take The Mickey (Piss) (Out Of Someone)",
+    "desc": "Take The Mickey (Piss) (Out Of Someone): Make fun of or ridicule someone"
+  },
+  {
+    "title": "Take the Shine Off (Something)",
+    "desc": "Take the Shine Off (Something): To do something that diminishes a positive event"
+  },
+  {
+    "title": "Take the Starch out of (Someone)",
+    "desc": "Take the Starch out of (Someone): Make someone less confident or less arrogant"
+  },
+  {
+    "title": "Take The Wind Out of Someone’s Sails",
+    "desc": "Take The Wind Out of Someone’s Sails: To reduce someone’s confidence, ofte by doing something unexpected"
+  },
+  {
+    "title": "Take Your Life in Your Hands",
+    "desc": "Take Your Life in Your Hands: Undergo extreme risk"
+  },
+  {
+    "title": "Take Your Medicine",
+    "desc": "Take Your Medicine: Accept something unpleasant, for example, punishment, without protesting or complaining"
+  },
+  {
+    "title": "Take Your Time",
+    "desc": "Take Your Time: Don’t hurry, work at a relaxed pace"
+  },
+  {
+    "title": "Taste of Your Own Medicine",
+    "desc": "Taste of Your Own Medicine: The same unpleasant experience or treatment that one has given to others"
+  },
+  {
+    "title": "Teach an Old Dog New Tricks",
+    "desc": "Teach an Old Dog New Tricks: To change someone’s long-established habits. Usually used in the negative: You can’t teach an old dog new tricks."
+  },
+  {
+    "title": "Tear One’s Hair out",
+    "desc": "Tear One’s Hair out: Be extremely worried or frustrated"
+  },
+  {
+    "title": "Tear-Jerker",
+    "desc": "Tear-Jerker: A film or book that makes you cry"
+  },
+  {
+    "title": "Tee Many Martoonies",
+    "desc": "Tee Many Martoonies: Too many martinis, scrambled to suggest drunkenness"
+  },
+  {
+    "title": "Tell It to the Marines",
+    "desc": "Tell It to the Marines: I don’t believe you; you must think I’m gullible."
+  },
+  {
+    "title": "Tempest in a Teapot",
+    "desc": "Tempest in a Teapot: A commotion about something unimportant"
+  },
+  { "title": "Ten a Penny", "desc": "Ten a Penny: Ordinary, inexpensive" },
+  { "title": "Ten to One", "desc": "Ten to One: Something very likely" },
+  {
+    "title": "Test the Waters",
+    "desc": "Test the Waters: Experiment with something cautiously"
+  },
+  {
+    "title": "Test the Waters",
+    "desc": "Test the Waters: Try something out in a preliminary way"
+  },
+  { "title": "Tie the Knot", "desc": "Tie the Knot: Get married" },
+  {
+    "title": "Tighten the Screws",
+    "desc": "Tighten the Screws: Increase pressure on someone"
+  },
+  {
+    "title": "Tight-Lipped",
+    "desc": "Tight-Lipped: secretive, unwilling to explain something"
+  },
+  {
+    "title": "Til the Cows Come Home",
+    "desc": "Til the Cows Come Home: For a very long time"
+  },
+  {
+    "title": "Time is Money",
+    "desc": "Time is Money: time is valuable, so don’t waste it."
+  },
+  {
+    "title": "Tip of the Iceberg",
+    "desc": "Tip of the Iceberg: A small, visible part of a much larger problem"
+  },
+  {
+    "title": "Tip One’s Hand",
+    "desc": "Tip One’s Hand: Reveal one’s advantages; reveal useful information that one possesses"
+  },
+  { "title": "TLC", "desc": "TLC: Tender Loving Care" },
+  {
+    "title": "To be A Peach",
+    "desc": "To be A Peach: Someone or something that is extremely good, impressive, or attractive"
+  },
+  {
+    "title": "To be Smitten With Someone",
+    "desc": "To be Smitten With Someone: To be completely captivated by someone and feel immense joy"
+  },
+  {
+    "title": "To be someone’s One and Only",
+    "desc": "To be someone’s One and Only: To be unique to the other person"
+  },
+  {
+    "title": "To be the Apple of Someone’s Eye",
+    "desc": "To be the Apple of Someone’s Eye: To be loved and treasured by someone"
+  },
+  {
+    "title": "To Bear Fruit",
+    "desc": "To Bear Fruit: To develop in a profitable or positive way"
+  },
+  {
+    "title": "To Bear Fruit",
+    "desc": "To Bear Fruit: To develop in a profitable or positive way"
+  },
+  {
+    "title": "To Carpool",
+    "desc": "To Carpool: To travel to the same place with a group of people in one car. e.g. work/school"
+  },
+  {
+    "title": "To Each His Own",
+    "desc": "To Each His Own: People have different tastes."
+  },
+  {
+    "title": "To Get Cold Feet",
+    "desc": "To Get Cold Feet: To experience reluctance or fear"
+  },
+  {
+    "title": "To Have a Chip on One’s Shoulder",
+    "desc": "To Have a Chip on One’s Shoulder: To be combative, to be consistently argumentative"
+  },
+  {
+    "title": "To Have Butterflies In Your Stomach",
+    "desc": "To Have Butterflies In Your Stomach: To be nervous"
+  },
+  {
+    "title": "To Have One For the Road",
+    "desc": "To Have One For the Road: To have one last (alcoholic) drink before you go home"
+  },
+  {
+    "title": "To Pay an Arm and a Leg",
+    "desc": "To Pay an Arm and a Leg: A very high cost"
+  },
+  {
+    "title": "To Pop (one’s) Cherry",
+    "desc": "To Pop (one’s) Cherry: To do something for the first time"
+  },
+  {
+    "title": "To Pull Someone’s Leg",
+    "desc": "To Pull Someone’s Leg: Lie playfully"
+  },
+  {
+    "title": "To Run Hot and Cold",
+    "desc": "To Run Hot and Cold: To be unable to make up one’s mind"
+  },
+  {
+    "title": "To the Letter",
+    "desc": "To the Letter: Exactly (said of instructions or procedures)"
+  },
+  {
+    "title": "Toe the Line",
+    "desc": "Toe the Line: Accept authority, follow the rules"
+  },
+  {
+    "title": "Tone-Deaf",
+    "desc": "Tone-Deaf: Not good at perceiving the impact of one’s words, insensitive"
+  },
+  {
+    "title": "Tongue-in-Cheek",
+    "desc": "Tongue-in-Cheek: Said ironically; not meant to be taken seriously"
+  },
+  {
+    "title": "Too Busy Fighting Alligators to Drain the Swamp",
+    "desc": "Too Busy Fighting Alligators to Drain the Swamp: So occupied with multiple challenges that one can’t keep the big picture in mind"
+  },
+  {
+    "title": "Too Many Cooks Spoil the Broth",
+    "desc": "Too Many Cooks Spoil the Broth: A project works best if there is input from a limited number of people"
+  },
+  {
+    "title": "Too Many Chiefs and Not Enough Indians",
+    "desc": "Too Many Chiefs and Not Enough Indians: Everyone wants to be a leader, and no one wants to do the actual work"
+  },
+  {
+    "title": "Too Many To Shake A Stick At",
+    "desc": "Too Many To Shake A Stick At: A large number"
+  },
+  {
+    "title": "Toot Your Own Horn",
+    "desc": "Toot Your Own Horn: Brag; emphasize one’s own contributions"
+  },
+  { "title": "Top Banana", "desc": "Top Banana: The boss, the leader" },
+  {
+    "title": "Toss a Wrench (Spanner) Into",
+    "desc": "Toss a Wrench (Spanner) Into: Sabotage; cause a process to stop"
+  },
+  { "title": "Touch Base", "desc": "Touch Base: Meet briefly with someone" },
+  {
+    "title": "Touch One’s Heart",
+    "desc": "Touch One’s Heart: Affect someone emotionally, be touching"
+  },
+  {
+    "title": "Touch Water",
+    "desc": "Touch Water: Be launched. Said of a boat."
+  },
+  { "title": "Tough Cookie", "desc": "Tough Cookie: A very determined person" },
+  {
+    "title": "Tough Cookie",
+    "desc": "Tough Cookie: Someone who can endure hardship; especially: a strong negotiator"
+  },
+  { "title": "Tough Sledding", "desc": "Tough Sledding: Difficult progress" },
+  {
+    "title": "Turn a Blind Eye",
+    "desc": "Turn a Blind Eye: (to) Choose not to notice something"
+  },
+  {
+    "title": "Turn on a Dime",
+    "desc": "Turn on a Dime: Quickly reverse direction or position"
+  },
+  {
+    "title": "Turn Someone Inside Out",
+    "desc": "Turn Someone Inside Out: To cause strong emotional turmoil; to completely change someone"
+  },
+  {
+    "title": "Turn Something on Its Head",
+    "desc": "Turn Something on Its Head: Reverse something, cause something to be done in a new way"
+  },
+  { "title": "Turn Turtle", "desc": "Turn Turtle: Capsize, turn over" },
+  {
+    "title": "Turn the Corner",
+    "desc": "Turn the Corner: To begin to improve after a problem"
+  },
+  {
+    "title": "Turn the Tables",
+    "desc": "Turn the Tables: Reverse a situation"
+  },
+  {
+    "title": "Turnabout Is Fair Play",
+    "desc": "Turnabout Is Fair Play: If you suffer from the same suffering you have inflicted on others, that’s only fair"
+  },
+  { "title": "Twenty-Four Seven", "desc": "Twenty-Four Seven: At any time" },
+  {
+    "title": "Twist the Knife (in Deeper)",
+    "desc": "Twist the Knife (in Deeper): Make someone’s suffering worse"
+  },
+  {
+    "title": "Twist the Knife (in Deeper)",
+    "desc": "Twist the Knife (in Deeper): Make someone’s suffering worse"
+  },
+  { "title": "Two a Penny", "desc": "Two a Penny: Ordinary, inexpensive" },
+  {
+    "title": "Two Peas in A Pod",
+    "desc": "Two Peas in A Pod: Two people who are very similar in appearance"
+  },
+  {
+    "title": "Thank God It’s Friday (TGIF)",
+    "desc": "Thank God It’s Friday (TGIF): Let’s be happy that the workweek is over!"
+  },
+  {
+    "title": "That Ship Has Sailed",
+    "desc": "That Ship Has Sailed: That opportunity has passed."
+  },
+  {
+    "title": "That’s Music to My Ears",
+    "desc": "That’s Music to My Ears: I am very happy to hear this."
+  },
+  {
+    "title": "That’s a Stretch",
+    "desc": "That’s a Stretch: What you are suggesting is very difficult to believe; I am very skeptical"
+  },
+  {
+    "title": "That’s All She Wrote",
+    "desc": "That’s All She Wrote: That was the end of the story."
+  },
+  {
+    "title": "The Apple Never Falls Far From the Tree",
+    "desc": "The Apple Never Falls Far From the Tree: Family characteristics are usually inherited"
+  },
+  {
+    "title": "The Birds and the Bees",
+    "desc": "The Birds and the Bees: Human sexuality and reproduction"
+  },
+  {
+    "title": "The Cat Is Out of the Bag",
+    "desc": "The Cat Is Out of the Bag: The secret has been revealed."
+  },
+  {
+    "title": "The Coast Is Clear",
+    "desc": "The Coast Is Clear: We are unobserved; it is safe to proceed."
+  },
+  {
+    "title": "The Cherry On the Cake",
+    "desc": "The Cherry On the Cake: The final thing that makes something perfect"
+  },
+  {
+    "title": "The Deck Is (The Cards Are)",
+    "desc": "The Deck Is (The Cards Are): Stacked Against You Unfavorable conditions exist."
+  },
+  {
+    "title": "The Jig Is Up",
+    "desc": "The Jig Is Up: A secret illicit activity has been exposed; your trickery is finished"
+  },
+  {
+    "title": "The More Things Change, The More They Stay The Same",
+    "desc": "The More Things Change, The More They Stay The Same: Although something may seem superficially new, it has not altered the basic situation."
+  },
+  {
+    "title": "The Only Game in Town",
+    "desc": "The Only Game in Town: The sole option for a particular service."
+  },
+  {
+    "title": "The Powers That Be",
+    "desc": "The Powers That Be: People in charge, often used when the speaker does not want to identify them."
+  },
+  { "title": "The Real McCoy", "desc": "The Real McCoy: A genuine item" },
+  {
+    "title": "The Story Has Legs",
+    "desc": "The Story Has Legs: People are continuing to pay attention to the story."
+  },
+  {
+    "title": "The Time is Ripe",
+    "desc": "The Time is Ripe: If you say that the time is ripe, you mean that it is a suitable point for a particular activity"
+  },
+  {
+    "title": "The Walls Have Ears We",
+    "desc": "The Walls Have Ears We: may be overheard; be careful what you say"
+  },
+  {
+    "title": "The Walls Have Ears",
+    "desc": "The Walls Have Ears: We may be overheard; be careful what you say"
+  },
+  {
+    "title": "The Whole Enchilada",
+    "desc": "The Whole Enchilada: All of something."
+  },
+  {
+    "title": "The Whole Shebang",
+    "desc": "The Whole Shebang: Everything, all the parts of something"
+  },
+  {
+    "title": "The World Is Your Oyster",
+    "desc": "The World Is Your Oyster: You have many opportunities and choices."
+  },
+  {
+    "title": "There But For The Grace Of God Go I",
+    "desc": "There But For The Grace Of God Go I: I could easily have done what that person did."
+  },
+  {
+    "title": "There’s More Than One Way to Skin a Cat",
+    "desc": "There’s More Than One Way to Skin a Cat: There’s more than one way of achieving a certain goal."
+  },
+  {
+    "title": "There’s No Such Thing as a Free Lunch",
+    "desc": "There’s No Such Thing as a Free Lunch: Nothing is given to you without some expectation of something in return."
+  },
+  {
+    "title": "Thin On The Ground",
+    "desc": "Thin On The Ground: Rare, seldom encountered"
+  },
+  {
+    "title": "Think Big",
+    "desc": "Think Big: Consider ambitious plans; avoid becoming overly concerned with details"
+  },
+  {
+    "title": "Think Outside the Box",
+    "desc": "Think Outside the Box: Try to solve a problem in an original way; think creatively"
+  },
+  {
+    "title": "Think Tank",
+    "desc": "Think Tank: A group of experts engaged in ongoing studies of a particular subject; a policy study group"
+  },
+  {
+    "title": "Think Tank",
+    "desc": "Think Tank: A group of experts engaged in ongoing studies of a particular subject; a policy study group"
+  },
+  {
+    "title": "Third Rail",
+    "desc": "Third Rail: A topic so sensitive that it is dangerous to raise. This is especially used in political contexts"
+  },
+  {
+    "title": "Third Time’s a Charm",
+    "desc": "Third Time’s a Charm: Even if you fail at something twice, you may well succeed the third time."
+  },
+  {
+    "title": "Thirty-Thousand-Foot View",
+    "desc": "Thirty-Thousand-Foot View: A very broad or general perspective"
+  },
+  {
+    "title": "This Has (Person X) Written All Over It",
+    "desc": "This Has (Person X) Written All Over It: [Person X] would really like or be well suited to this."
+  },
+  {
+    "title": "This Is Not Your Father’s",
+    "desc": "This Is Not Your Father’s ____: This item has been much updated from its earlier versions."
+  },
+  {
+    "title": "Three Sheets to the Wind",
+    "desc": "Three Sheets to the Wind: Very drunk"
+  },
+  {
+    "title": "Through the Grapevine",
+    "desc": "Through the Grapevine: Via gossip"
+  },
+  {
+    "title": "Through Thick and Thin",
+    "desc": "Through Thick and Thin: In good times and bad"
+  },
+  {
+    "title": "Throw a Wet Blanket on (Something)",
+    "desc": "Throw a Wet Blanket on (Something): Discourage plans for something"
+  },
+  {
+    "title": "Throw a Wrench Int",
+    "desc": "Throw a Wrench Into: To sabotage; to cause to fail"
+  },
+  {
+    "title": "Throw Caution to the Wind",
+    "desc": "Throw Caution to the Wind: To act in a daring way, without forethough"
+  },
+  {
+    "title": "Throw Down the Gauntlet",
+    "desc": "Throw Down the Gauntlet: To issue a challenge"
+  },
+  {
+    "title": "Throw Elbows",
+    "desc": "Throw Elbows: Be combative; be aggressive (physically or figuratively)"
+  },
+  {
+    "title": "Throw in the Towel",
+    "desc": "Throw in the Towel: To give up, admit defeat"
+  },
+  {
+    "title": "Throw Someone for a Loop",
+    "desc": "Throw Someone for a Loop: Deeply surprise someone; catch someone off guard"
+  },
+  {
+    "title": "Throw Someone Under the Bus",
+    "desc": "Throw Someone Under the Bus: Sacrifice someone else’s interests for your own personal gain"
+  },
+  {
+    "title": "Throw the Baby Out with the Bath Water",
+    "desc": "Throw the Baby Out with the Bath Water: Eliminate something good while discarding the bad parts of something"
+  },
+  {
+    "title": "Throw the Baby Out with the Bath Water",
+    "desc": "Throw the Baby Out with the Bath Water: To discard something valuable or important while disposing of something worthless"
+  },
+  {
+    "title": "Throw The Book At",
+    "desc": "Throw The Book At: Prosecute legally as strongly as possible"
+  },
+  {
+    "title": "Throw the Fight",
+    "desc": "Throw the Fight: Intentionally lose a contest, usually in collusion with gamblers"
+  },
+  {
+    "title": "Throw the Game",
+    "desc": "Throw the Game: Intentionally lose a contest, usually in collusion with gamblers"
+  },
+  {
+    "title": "Throw the Match",
+    "desc": "Throw the Match: Intentionally lose a contest, usually in collusion with gamblers"
+  },
+  { "title": "Thumbs-Up", "desc": "Thumbs-Up: Approval" },
+  {
+    "title": "Train Wreck",
+    "desc": "Train Wreck: Anything that develops in a disastrous way"
+  },
+  {
+    "title": "Trash Talk",
+    "desc": "Trash Talk: Insults directed at one’s opponent in a sporting event or contest"
+  },
+  {
+    "title": "Tread Water",
+    "desc": "Tread Water: Maintain a current situation without improvement or decline"
+  },
+  {
+    "title": "Trial Balloon",
+    "desc": "Trial Balloon: A test of someone’s or the public’s reaction"
+  },
+  {
+    "title": "Trip the Light Fantastic",
+    "desc": "Trip the Light Fantastic: Dance well; do ballroom dancing"
+  },
+  {
+    "title": "U Turn",
+    "desc": "U Turn: A complete change of opinion, direction, etc."
+  },
+  {
+    "title": "Ugly Duckling",
+    "desc": "Ugly Duckling: An awkward child or young person who grows into a beautiful person"
+  },
+  {
+    "title": "Under (Below) the Radar",
+    "desc": "Under (Below) the Radar: Not generally perceived, below popular consciousness"
+  },
+  {
+    "title": "Under Someone’s Spell",
+    "desc": "Under Someone’s Spell: Fascinated, entranced by someone"
+  },
+  {
+    "title": "Under the Impression",
+    "desc": "Under the Impression: Believing something, perhaps mistakenly"
+  },
+  {
+    "title": "Under the Table",
+    "desc": "Under the Table: Without being officially recorded"
+  },
+  { "title": "Under the Weather", "desc": "Under the Weather: Feeling ill" },
+  {
+    "title": "Under the Weather",
+    "desc": "Under the Weather: Not feeling well"
+  },
+  { "title": "Under Wraps", "desc": "Under Wraps: Temporarily hidden, secret" },
+  {
+    "title": "University of Life",
+    "desc": "University of Life: Difficult real-life experience, as opposed to formal education"
+  },
+  {
+    "title": "Until the Cows Come Home",
+    "desc": "Until the Cows Come Home: For a long time"
+  },
+  {
+    "title": "Until You’re Blue in the Face",
+    "desc": "Until You’re Blue in the Face: For a long time with no results"
+  },
+  { "title": "Up a Creek", "desc": "Up a Creek: In a very bad situation" },
+  { "title": "Up for Grabs", "desc": "Up for Grabs: Available" },
+  { "title": "Up for Grabs", "desc": "Up for Grabs: Available for anyone" },
+  {
+    "title": "Up in Arms",
+    "desc": "Up in Arms: Angry, protesting (usually said of a group)"
+  },
+  { "title": "Up in the Air", "desc": "Up in the Air: Not yet decided" },
+  {
+    "title": "Up to One’s Neck",
+    "desc": "Up to One’s Neck: Nearly overwhelmed"
+  },
+  {
+    "title": "Up to Scratch",
+    "desc": "Up to Scratch: Meeting a basic standard of competence or quality"
+  },
+  { "title": "Up to Snuff", "desc": "Up to Snuff: Meeting a basic standard" },
+  {
+    "title": "Up the Ante",
+    "desc": "Up the Ante: Raise the stakes; increase the importance of something under discussion"
+  },
+  { "title": "Up the Duff", "desc": "Up the Duff: Pregnant" },
+  {
+    "title": "Upset the Apple Cart",
+    "desc": "Upset the Apple Cart: To disorganize or spoil something, especially an established arrangement or plan"
+  },
+  {
+    "title": "Use One’s Head",
+    "desc": "Use One’s Head: To think, to have common sense"
+  },
+  {
+    "title": "Vale of Tears",
+    "desc": "Vale of Tears: The world in general, envisioned as a sad place; the tribulations of life"
+  },
+  {
+    "title": "Vicious Circle",
+    "desc": "Vicious Circle: A situation in which an attempt to solve a problem makes the original problem worse."
+  },
+  {
+    "title": "Victory Lap",
+    "desc": "Victory Lap: Visible public appearances after a victory or accomplishment"
+  },
+  {
+    "title": "Virgin Territory",
+    "desc": "Virgin Territory: Something that has never been explored, physically or intellectually"
+  },
+  {
+    "title": "Vote with One’s Feet",
+    "desc": "Vote with One’s Feet: To physically depart from something as a way of showing disapproval"
+  },
+  {
+    "title": "Waiting in the Wings",
+    "desc": "Waiting in the Wings: Ready to assume responsibilities but not yet active, ready to become a successor"
+  },
+  {
+    "title": "Waka-Jumping",
+    "desc": "Waka-Jumping: Change political parties (said of politicians themselves)"
+  },
+  {
+    "title": "Wake Up and Smell the Coffee",
+    "desc": "Wake Up and Smell the Coffee: Stop deluding yourself"
+  },
+  {
+    "title": "Wake Up on the Wrong Side of the Bed",
+    "desc": "Wake Up on the Wrong Side of the Bed: Be grumpy or ill-humored. Generally used in past tense"
+  },
+  {
+    "title": "Walk on Eggshells",
+    "desc": "Walk on Eggshells: To have to act very sensitively in order to avoid offending someone"
+  },
+  {
+    "title": "Walk the Plank",
+    "desc": "Walk the Plank: Be forced to resign a position"
+  },
+  {
+    "title": "Wandering Eye",
+    "desc": "Wandering Eye: A tendency to look at and desire women or men other than one’s committed romantic partner"
+  },
+  {
+    "title": "Wandering Eye",
+    "desc": "Wandering Eye: A tendency to look at and desire women or men other than one’s committed romantic partner"
+  },
+  {
+    "title": "Wash Your Hands of (Something)",
+    "desc": "Wash Your Hands of (Something): Decline to take further responsibility; refuse to be involved with something anymore"
+  },
+  {
+    "title": "Water Under the Bridge",
+    "desc": "Water Under the Bridge: Something in the past that’s no longer worth worrying about"
+  },
+  {
+    "title": "Watering Hole",
+    "desc": "Watering Hole: A place where alcoholic beverages are served, a bar"
+  },
+  {
+    "title": "Weekend Warrior",
+    "desc": "Weekend Warrior: Someone who has an office job but enjoys contact sports on weekends; a member of a military reserve force (whose exercises are typically on weekends)"
+  },
+  {
+    "title": "We’ll Cross That Bridge",
+    "desc": "We’ll Cross That Bridge: When We Come to It We’ll deal with that problem if and when it comes up"
+  },
+  {
+    "title": "Welsh (Welch) on a Deal",
+    "desc": "Welsh (Welch) on a Deal: Not observe the terms of an agreement"
+  },
+  {
+    "title": "Wet Behind the Ears",
+    "desc": "Wet Behind the Ears: inexperienced, immature, new to something"
+  },
+  {
+    "title": "Wet Behind the Ears",
+    "desc": "Wet Behind the Ears: Inexperienced, immature, new to something"
+  },
+  {
+    "title": "Wet Blanket",
+    "desc": "Wet Blanket: Someone who dampens a festive occasion"
+  },
+  { "title": "Wet Your Whistle:", "desc": "Wet Your Whistle: Drink something" },
+  {
+    "title": "What Do You Make of (Him)?",
+    "desc": "What Do You Make of (Him)?: What is your evaluation of this person?"
+  },
+  {
+    "title": "What Goes Around Comes Around",
+    "desc": "What Goes Around Comes Around: The kind of treatment you give to others will eventually return to you; things go in cycles"
+  },
+  {
+    "title": "What’s Good for the Goose Is Good for the Gander",
+    "desc": "What’s Good for the Goose Is Good for the Gander: What’s OK for a man is OK for a woman, too"
+  },
+  {
+    "title": "When Hell Freezes Over",
+    "desc": "When Hell Freezes Over: Never"
+  },
+  {
+    "title": "When In Doubt, Leave It Ou",
+    "desc": "When In Doubt, Leave It Out: When unsure about something, omit it."
+  },
+  {
+    "title": "When in Rome, Do as the Romans Do",
+    "desc": "When in Rome, Do as the Romans Do: When you visit a new place, follow the customs of the people there"
+  },
+  {
+    "title": "When It Rains, It Pours",
+    "desc": "When It Rains, It Pours: Problems tend to come in groups."
+  },
+  { "title": "When Pigs Fly", "desc": "When Pigs Fly: Never" },
+  {
+    "title": "When the Chips Are Down",
+    "desc": "When the Chips Are Down: When a situation becomes urgent or difficult"
+  },
+  {
+    "title": "Where (When) the Rubber",
+    "desc": "Where (When) the Rubber: Meets the Road In reality; where an idea meets a real-world test"
+  },
+  {
+    "title": "Where There’s a Will, There’s a Way",
+    "desc": "Where There’s a Will, There’s a Way: If you have a strong desire to accomplish something, you will achieve it even in the face of considerable odds."
+  },
+  {
+    "title": "Where There’s Smoke, There’s Fire",
+    "desc": "Where There’s Smoke, There’s Fire: If there is typical evidence of something, the most likely explanation is that it is actually occurring."
+  },
+  {
+    "title": "Whisper Sweet Nothings(in Someone’s Ear)",
+    "desc": "Whisper Sweet Nothings (in Someone’s Ear): Speak meaningless romantic utterances"
+  },
+  {
+    "title": "Whistle in the Dark",
+    "desc": "Whistle in the Dark: To be unrealistically confident or brave; to talk about something of which one has little knowledge"
+  },
+  {
+    "title": "Whistle Past the Graveyard",
+    "desc": "Whistle Past the Graveyard: Remain optimistic despite dangers; be clueless"
+  },
+  {
+    "title": "Whistling Dixie",
+    "desc": "Whistling Dixie: Being unrealistically optimistic"
+  },
+  {
+    "title": "White Elephant",
+    "desc": "White Elephant: An unwanted item that is difficult to sell or dispose of"
+  },
+  {
+    "title": "Who’s She, the Cat’s Mother?",
+    "desc": "Who’s She, the Cat’s Mother?: Why does she have such a high opinion of herself?"
+  },
+  {
+    "title": "Wild Goose Chase",
+    "desc": "Wild Goose Chase: An impossible or futile search or task"
+  },
+  {
+    "title": "Window Dressing",
+    "desc": "Window Dressing: A misleading disguise intended to present a favorable impression"
+  },
+  {
+    "title": "Window Shop",
+    "desc": "Window Shop: To look at merchandise in a store without intending to buy it"
+  },
+  {
+    "title": "Witch Hunt",
+    "desc": "Witch Hunt: An organized attempt to persecute an unpopular group of people and blame them for a problem."
+  },
+  {
+    "title": "With Bells On",
+    "desc": "With Bells On: Eagerly, willingly, and on time."
+  },
+  {
+    "title": "Work One’s Fingers to the Bone",
+    "desc": "Work One’s Fingers to the Bone: Work very hard over an extended period"
+  },
+  {
+    "title": "Worn to a Frazzle",
+    "desc": "Worn to a Frazzle: Exhausted, completely worn out"
+  },
+  {
+    "title": "Wouldn’t Be Caught Dead",
+    "desc": "Wouldn’t Be Caught Dead: Would absolutely not allow myself to do this"
+  },
+  {
+    "title": "Writing (Handwriting) on the Wall",
+    "desc": "Writing (Handwriting) on the Wall: Hints of coming disaster"
+  },
+  {
+    "title": "Year In, Year Out",
+    "desc": "Year In, Year Out: Annually without change"
+  },
+  {
+    "title": "You Can Lead a Horse to Water, but You Can’t Make It Drink",
+    "desc": "You Can Lead a Horse to Water, but You Can’t Make It Drink: It’s very hard to force someone to do something against his or her will."
+  },
+  {
+    "title": "You Can Say That Again!",
+    "desc": "You Can Say That Again!: I agree totally!"
+  },
+  {
+    "title": "You Can Take It to the Bank",
+    "desc": "You Can Take It to the Bank: I absolutely guarantee this"
+  },
+  {
+    "title": "You Can’t Judge a Book by Its Cover",
+    "desc": "You Can’t Judge a Book by Its Cover: You can’t know people (or things) well by their external appearances."
+  },
+  {
+    "title": "You Can’t Make an Omelet (Omelette)",
+    "desc": "You Can’t Make an Omelet (Omelette): Without Breaking"
+  },
+  {
+    "title": "You Can’t Make Fish of One and Fowl of the Other",
+    "desc": "You Can’t Make Fish of One and Fowl of the Other: People must be treated equally."
+  },
+  {
+    "title": "You Know the Drill",
+    "desc": "You Know the Drill: You are already familiar with the procedure."
+  },
+  {
+    "title": "You Snooze, You Lose",
+    "desc": "You Snooze, You Lose: If you delay or are not alert, you will miss opportunities"
+  },
+  {
+    "title": "Young at Heart",
+    "desc": "Young at Heart: Having a youthful outlook, regardless of age"
+  },
+  {
+    "title": "Your Guess Is as Good as Mine",
+    "desc": "Your Guess Is as Good as Mine: I don’t know; I have no idea"
+  },
+  {
+    "title": "Your Mileage May Vary",
+    "desc": "Your Mileage May Vary: You may get different results. This does not necessarily refer to a car, although it may."
+  },
+  {
+    "title": "Your Number Is Up",
+    "desc": "Your Number Is Up: You are going to die (or suffer some bad misfortune or setback)"
+  },
+  {
+    "title": "You’re Driving Me Nuts",
+    "desc": "You’re Driving Me Nuts: To make someone giddy or crazy"
+  },
+  { "title": "Yours Truly", "desc": "Yours Truly: Me" },
+  {
+    "title": "Zero In On",
+    "desc": "Zero In On: Focus closely on something; take aim at something"
+  },
+  {
+    "title": "Zig When One Should Be Zagging",
+    "desc": "Zig When One Should Be Zagging: To make an error; to choose an incorrect course"
+  },
+  { "title": "Zip One’s Lip", "desc": "Zip One’s Lip: Be quiet" }
+]
